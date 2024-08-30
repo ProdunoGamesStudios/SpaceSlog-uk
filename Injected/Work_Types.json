@@ -1,0 +1,58 @@
+{
+	"FireControl": {
+		"title": "Fire control",
+		"description": "Will attempt to fight any fires."
+	},
+	"Patient": {
+		"title": "Patient",
+		"description": "Will use beds when injured or sick to heal themselves back to full health."
+	},
+	"Medical": {
+		"title": "Medical",
+		"description": "Rescues, looks after and heals the sick or wounded."
+	},
+	"Combat": {
+		"title": "Combat",
+		"description": "Will engage in combat."
+	},
+	"Cook": {
+		"title": "Cook",
+		"description": "Performs all cooking and brewing activities."
+	},
+	"Botany": {
+		"title": "Botany",
+		"description": "Tends to any plants including planting seeds and harvesting crops."
+	},
+	"Engineering": {
+		"title": "Engineering",
+		"description": "Performs any maintenance and constructs or deconstructs anything required."
+	},
+	"Janitor": {
+		"title": "Janitor",
+		"description": "Cleans flooring and performs many basic tasks."
+	},
+	"Security": {
+		"title": "Security",
+		"description": "Looks after and manages prisoners."
+	},
+	"Science": {
+		"title": "Science",
+		"description": "Performs research, development and other scientific activities."
+	},
+	"Veterinarian": {
+		"title": "Veterinarian",
+		"description": "Trains and takes care of animals."
+	},
+	"Tailor": {
+		"title": "Tailor",
+		"description": "Creates apparel."
+	},
+	"Machining": {
+		"title": "Machining",
+		"description": "Creates various equipment and ship parts."
+	},
+	"Labourer": {
+		"title": "Labourer",
+		"description": "Hauls the dead, equipment and resources where required. Refills designated machinery."
+	}
+}

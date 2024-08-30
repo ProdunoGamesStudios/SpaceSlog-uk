@@ -1,0 +1,46 @@
+{
+	"MetalHull": {
+		"title": "Hull wall",
+		"description": "An impermeable hull that can hold atmosphere. Required to enable the placement of flooring."
+	},
+	"MetalHullCorner": {
+		"title": "Hull wall armour",
+		"description": "Armoured hull is used on ship exteriors. Due to its heavy nature is made porous to save weight. This means it does not hold atmosphere."
+	},
+	"MetalHullAngle": {
+		"title": "Hull wall armour",
+		"description": "Armoured hull is used on ship exteriors. Due to its heavy nature is made porous to save weight. This means it does not hold atmosphere."
+	},
+	"MetalFloor": {
+		"title": "Hull floor",
+		"description": "A standard type of flooring used in spaceships across the galaxy. Place on top of hull to create rooms."
+	},
+	"ConcreteFloor": {
+		"title": "Concrete floor",
+		"description": "A heavy flooring used in large crafts. Place on top of hull to create rooms."
+	},
+	"CarpetFloor": {
+		"title": "Carpet",
+		"description": "A very comfortable luxury carpet. Must be placed on top of other flooring."
+	},
+	"WoodFloor": {
+		"title": "Wooden flooring",
+		"description": "A standard type of flooring made from wood. Must be placed on top of other flooring."
+	},
+	"Door": {
+		"title": "Door",
+		"description": "A manual door."
+	},
+	"ArmouredDoor": {
+		"title": "Armoured door",
+		"description": "A manual reinforced door."
+	},
+	"BlastDoor": {
+		"title": "Blast door",
+		"description": "A manual, air tight door"
+	},
+	"ArmouredBlastDoor": {
+		"title": "Armoured blast door",
+		"description": "A manual, reinforced air tight door."
+	}
+}

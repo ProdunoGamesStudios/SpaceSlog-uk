@@ -1,0 +1,14 @@
+{
+    "Anything": {
+        "title": "Anything",
+        "description": "Can do anything."
+    },
+    "Work": {
+        "title": "Work",
+        "description": "Will only perform work based tasks where possible."
+    },
+    "Sleep": {
+        "title": "Sleep",
+        "description": "Will only try and sleep if possible."
+    }
+}

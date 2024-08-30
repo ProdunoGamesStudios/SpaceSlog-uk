@@ -1,0 +1,26 @@
+{
+    "Slavery": {
+        "title": "Slavery",
+        "description": "Trafficking species is normal and not punishable by law. This has made the buying and selling of slaves a common sight in and around this faction's territories."
+    },
+    "Cannibalism": {
+        "title": "Cannibalism",
+        "description": "Some might resort to cannibalism out of need and others out of want. This faction finds no issue with either and has even made it legal."
+    },
+    "Commerce": {
+        "title": "Commerce",
+        "description": "This faction has a sophisticated trade system."
+    },
+    "Exploration": {
+        "title": "Exploration",
+        "description": "A species of explorers. It is a legal requirement for one to join the exploration ships sent out."
+    },
+    "Expansionist": {
+        "title": "Expansionist",
+        "description": "It is encouraged and legal to try and colonise other segments of the universe."
+    },
+    "Banditry": {
+        "title": "Bandits",
+        "description": "Banditry is encouraged within this faction and often includes crimes such as extortion, robbery and murder. Those engaging in these types of activities are often referred to as bandits."
+    }
+}

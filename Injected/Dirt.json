@@ -1,0 +1,18 @@
+{
+    "Dirt": {
+        "title": "Dirt",
+        "description": "General dirt."
+    },
+    "Slime": {
+        "title": "Slime",
+        "description": "Gross and slimy."
+    },
+    "Puke": {
+        "title": "Puke",
+        "description": "Chunky bodily fluids."
+    },
+    "Blood": {
+        "title": "Blood",
+        "description": "Bodily fluids."
+    }
+}

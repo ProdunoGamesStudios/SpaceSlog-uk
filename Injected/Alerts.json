@@ -1,0 +1,34 @@
+{
+    "Birthday": {
+        "title": "Birthday!",
+        "description": "Its time for celebration as {subject_name} reaches {pawn_possessive} {age} birthday!"
+    },
+    "Death": {
+        "title": "Death!",
+        "description": "{subject_name} has died {reason}"
+    },
+    "Collapsed": {
+        "title": "{subject_name} needs rescuing.",
+        "description": "{subject_name} has collapsed {reason} and needs to be rescued."
+    },
+    "Incapacitated": {
+        "title": "{subject_name} needs rescuing.",
+        "description": "{subject_name} has been incapacitated and can no longer move."
+    },
+    "Mobile": {
+        "title": "{subject_name} mobile.",
+        "description": "{subject_name} is moving again."
+    },
+    "Fire": {
+        "title": "Fire",
+        "description": "A fire has started!"
+    },
+    "ShipAttacked": {
+        "title": "Ship attacked.",
+        "description": "Your ship is being attacked!"
+    },
+    "PawnAttacked": {
+        "title": "Pawn attacked.",
+        "description": "{subject_name} is being attacked!"
+    }
+}

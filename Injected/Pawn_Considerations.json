@@ -1,0 +1,146 @@
+{
+    "Hungry": {
+        "title": "Is hungry",
+        "description": "Am i hungry?"
+    },
+    "Thirsty": {
+        "title": "Is thirsty",
+        "description": "Am i thirsty?"
+    },
+    "Tired": {
+        "title": "Is tired",
+        "description": "Am i tired?"
+    },
+    "HasFood": {
+        "title": "Has food available",
+        "description": "Is there food available?"
+    },
+    "HasDrink": {
+        "title": "Has drink available",
+        "description": "Is there anything to drink available?"
+    },
+    "Fallback": {
+        "title": "Fallback",
+        "description": "This is just a fallback for when we have nothing else to do."
+    },
+    "HasPrefab": {
+        "title": "Something needs building",
+        "description": "Does anything need building?"
+    },
+    "HasDirt": {
+        "title": "Something needs cleaning",
+        "description": "Is there any dirt to clean?"
+    },
+    "ThingToHaul": {
+        "title": "Something needs hauling",
+        "description": "Checking if there is there anything to haul."
+    },
+    "NeedsMatsPrefab": {
+        "title": "Has materials",
+        "description": "Checking if we have the required materials."
+    },
+    "NeedsMatsRecipe": {
+        "title": "Has materials",
+        "description": "Checking if we have the required materials."
+    },
+    "HasDeconstruction": {
+        "title": "Something needs deconstructing",
+        "description": "Is there anything to deconstruct?"
+    },
+    "HasMineable": {
+        "title": "Something needs mining",
+        "description": "Is there anything to mine?"
+    },
+    "SomewhereToSleep": {
+        "title": "Has somewhere to sleep",
+        "description": "Checking if there is somewhere to sleep."
+    },
+    "PawnNeedsRescue": {
+        "title": "A Pawn needs rescuing",
+        "description": "Checking if a pawn needs to be rescued."
+    },
+    "HasMedicalBed": {
+        "title": "Has somewhere to rest and heal",
+        "description": "Checking if there is somewhere to rest and heal."
+    },
+    "Greedy": {
+        "title": "Is greedy",
+        "description": "Am I considered greedy."
+    },
+    "SomewhereToRoam": {
+        "title": "Has somewhere to roam",
+        "description": "Is there somewhere to roam to?"
+    },
+    "MyHealth": {
+        "title": "My health",
+        "description": "Checking my health."
+    },
+    "TargetHealth": {
+        "title": "Targets health",
+        "description": "Checking targets health."
+    },
+    "ThingNeedsRefuelling": {
+        "title": "Something needs refuelling",
+        "description": "Checking if something needs to be refilled with fuel."
+    },
+    "DeadPawn": {
+        "title": "A dead pawn needs moving",
+        "description": "Checking if we have a dead pawn that needs to be disposed of."
+    },
+    "EquipSpacesuit": {
+        "title": "Needs to equip a spacesuit",
+        "description": "Checking if we need to equip a spacesuit."
+    },
+    "HasFullPressuredSuit": {
+        "title": "Has full pressured suit",
+        "description": "Checking if we already have a full pressured suit equipped."
+    },
+    "IsCaptain": {
+        "title": "Is captain",
+        "description": "Am I a captain?"
+    },
+    "HasEntertainment": {
+        "title": "Has some entertainment to play.",
+        "description": "Checking if we have some entertainment to play."
+    },
+    "PawnNeedsHealing": {
+        "title": "A pawn needs healing",
+        "description": "Checking if a pawn needs healing."
+    },
+    "PawnNeedsFeeding": {
+        "title": "A pawn needs feeding",
+        "description": "Checking if a pawn needs feeding."
+    },
+    "PawnNeedsHydrating": {
+        "title": "A pawn needs hydrating",
+        "description": "Checking if a pawn needs hydrating."
+    },
+    "PrefabObstruction": {
+        "title": "An obstruction needs moving",
+        "description": "Checking if an obstruction needs moving."
+    },
+    "Aggroed": {
+        "title": "Are we aggroed?",
+        "description": "Checking if we are aggroed."
+    },
+    "HasAttackTarget": {
+        "title": "Do we have a target to attack?",
+        "description": "Trying to find a target to attack."
+    },
+    "IsHostileEnemyNearby": {
+        "title": "Is there an enemy close by?",
+        "description": "Checking if an enemy is close by."
+    },
+    "SomethingToSow": {
+        "title": "Is there something to sow?",
+        "description": "Checking if there is something to sow."
+    },
+    "SomethingToHarvest": {
+        "title": "Is there something to harvest?",
+        "description": "Checking if there is something to harvest."
+    },
+    "SomethingToHarvestRecipe": {
+        "title": "Is there a recipe finished to harvest?",
+        "description": "Checking if there is a finished recipe."
+    }
+}

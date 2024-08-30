@@ -1,0 +1,17 @@
+{
+	"HumanPlayer": {
+		"title": "Human player"
+	},
+	"HumanPirate": {
+		"title": "Human pirate"
+	},
+	"HumanNeutral": {
+		"title": "Human neutral"
+	},
+	"SpaceWorm": {
+		"title": "Space worm"
+	},
+	"Rat": {
+		"title": "Rat"
+	}
+}

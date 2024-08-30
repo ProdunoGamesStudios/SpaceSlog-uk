@@ -1,0 +1,22 @@
+{
+    "WheatPlant": {
+        "title": "Wheat grass",
+        "description": "Produces wheat once cultivated."
+    },
+    "RicePlant": {
+        "title": "Rice grass",
+        "description": "Produces rice once cultivated."
+    },
+    "PotatoPlant": {
+        "title": "Potato plant",
+        "description": "A plant that produces potato's once cultivated."
+    },
+    "CarrotPlant": {
+        "title": "Carrot plant",
+        "description": "A plant that produces carrots once cultivated."
+    },
+    "HerbPlant": {
+        "title": "Herb plant",
+        "description": "A plant that produces herbs once cultivated."
+    }
+}

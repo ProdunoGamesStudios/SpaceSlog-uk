@@ -1,0 +1,104 @@
+{
+    "Roam": {
+        "title": "Roam"
+    },
+    "Eat": {
+        "title": "Eat"
+    },
+    "Drink": {
+        "title": "Drink"
+    },
+    "Clean": {
+        "title": "Clean"
+    },
+    "Sleep": {
+        "title": "Sleep"
+    },
+    "InvoluntarySleep": {
+        "title": "Sleep"
+    },
+    "ForceMove": {
+        "title": "Force Move"
+    },
+    "Pickup": {
+        "title": "Pickup"
+    },
+    "Haul": {
+        "title": "Haul"
+    },
+    "Refuel": {
+        "title": "Refuel"
+    },
+    "MoveDeadPawn": {
+        "title": "Move dead pawn"
+    },
+    "Equip": {
+        "title": "Equip"
+    },
+    "UnEquip": {
+        "title": "Removing"
+    },
+    "CollectMaterials": {
+        "title": "Collect materials"
+    },
+    "Strip": {
+        "title": "Strip"
+    },
+    "Deconstruct": {
+        "title": "Deconstruct"
+    },
+    "Mine": {
+        "title": "Mine"
+    },
+    "DestroyAsset": {
+        "title": "Destroy asset"
+    },
+    "HaulToPrefab": {
+        "title": "Haul to prefab"
+    },
+    "Build": {
+        "title": "Build"
+    },
+    "Rescue": {
+        "title": "Rescue"
+    },
+    "UseEntertainment": {
+        "title": "Play arcade machine."
+    },
+    "SitAtChair": {
+        "title": "Sitting."
+    },
+    "TendHeal": {
+        "title": "Heal pawn"
+    },
+    "TendFeed": {
+        "title": "Heal pawn"
+    },
+    "TendHydrate": {
+        "title": "Heal pawn"
+    },
+    "GetBackToShip": {
+        "title": "Get back to the ship"
+    },
+    "Slaughter": {
+        "title": "Slaughter."
+    },
+    "Butcher": {
+        "title": "Butcher"
+    },
+    "SowPlant": {
+        "title": "Sow plant"
+    },
+    "HarvestPlant": {
+        "title": "Harvest plant"
+    },
+    "HarvestBrew": {
+        "title": "Harvest brew"
+    },
+    "FollowAndMelee": {
+        "title": "Follow and melee"
+    },
+    "Flee": {
+        "title": "Flee"
+    }
+}

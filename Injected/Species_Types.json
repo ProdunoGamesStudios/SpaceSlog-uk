@@ -1,0 +1,14 @@
+{
+	"Human": {
+    	"title": "Human",
+		"description": "Humans are a type of humanoid. Due to having a large complex brain, they are very intelligent and have mastered the use of tools. Commonly known to have predominantly come from Earth, they mostly speak the Earthen mother tongue."
+	},
+	"Worm": {
+    	"title": "Space worm",
+		"description": "A gross worm"
+	},
+	"Rat": {
+    	"title": "Rat",
+		"description": "A small rat"
+	}
+}

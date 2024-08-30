@@ -1,0 +1,126 @@
+{
+	"LowGravity" : {
+		"title" : "Prefers low gravity",
+		"description" : "Being born and raised on a colony ship, which is where {pawn_name} has spent most of {pawn_possessive} life, means {pawn_possessive} bones and muscles have become accustomed to the artificial gravity commonly found on larger ships. This gravity is relatively weak which means {pawn_name} struggles more than others in high gravity areas."
+	},
+	"HighGravity" : {
+		"title" : "Prefers high gravity",
+		"description" : "Years of living on a planet with a higher than usual amount of gravity has meant {pawn_name} now prefers slightly higher gravity atmospheres."
+	},
+	"Gay" : {
+		"title" : "Gay",
+		"description" : "{pawn_name} prefers those of the same sex as themselves."
+	},
+	"Murderous" : {
+		"title" : "Murderous",
+		"description" : "Has been known to murder others on occasions."
+	},
+	"Ugly": {
+		"title": "Ugly",
+		"description": "Not very nice to look at."
+	},
+	"Pretty": {
+		"title": "Pretty",
+		"description": "Naturally easy on the eyes."
+	},
+	"PickPocket": {
+		"title": "Pick pocket",
+		"description": "Has a disregard for a sense of ownership."
+	},
+	"Claustrophobic": {
+		"title": "Claustrophobic",
+		"description": "Dislikes confined spaces."
+	},
+	"SocialButterfly": {
+		"title": "Social butterfly",
+		"description": "Dislikes being left alone."
+	},
+	"Reclusive": {
+		"title": "Reclusive",
+		"description": "Prefers to avoid the company of others."
+	},
+	"Creative": {
+		"title": "Creative",
+		"description": "Has a good eye for art and other creative activities."
+	},
+	"Ambitious": {
+		"title": "Ambitious",
+		"description": "Has high aspirations for themselves."
+	},
+	"Fearless": {
+		"title": "Fearless",
+		"description": "Prefers not to back down from a fight."
+	},
+	"Coward": {
+		"title": "Coward",
+		"description": "Life has taught {pawn_name} to either run from, or actively avoid confrontation or dangerous situations."
+	},
+	"LoudSnorer": {
+		"title": "Loud snorer",
+		"description": "Snores extremely loud. Should probably sleep alone."
+	},
+	"Jealous": {
+		"title": "Jealous",
+		"description": "Doesn't like it if others have things better than themselves."
+	},
+	"Unhygienic": {
+		"title": "Unhygienic",
+		"description": "Doesn't care much for personal hygiene."
+	},
+	"NeatFreak": {
+		"title": "Neat freak",
+		"description": "Obsessively likes things to be neat and tidy."
+	},
+	"Mumbler": {
+		"title": "Mumbler",
+		"description": "{pawn_name} enjoys mumbling to {pawn_possessive}, though sometimes at the annoyance of others."
+	},
+	"Depressive": {
+		"title": "Depressive",
+		"description": "{pawn_name} suffers from a personality disorder which include worthlessness, low self esteem and joylessness."
+	},
+	"Chatterbox": {
+		"title": "Chatterbox",
+		"description": "{pawn_name} likes to talk a lot, to which some people may find annoying but others may find comforting."
+	},
+	"Earther": {
+		"title": "Earther",
+		"description": "Prefers living life on a planet."
+	},
+	"Spacer": {
+		"title": "Spacer",
+		"description": "Prefers living life in the vastness of space."
+	},
+	"Lazy": {
+		"title": "Lazy",
+		"description": "Generally works slower than others and tends to want more sleep."
+	},
+	"HardWorker": {
+		"title": "Hard worker",
+		"description": "Likes to work quicker than others."
+	},
+	"Nervous": {
+		"title": "Nervous",
+		"description": "Has a tendency to to let {pawn_possessive} nerves get in the way, often causing undesired outcomes."
+	},
+	"Tinkerer": {
+		"title": "Tinkerer",
+		"description": "For better or worse {pawn_pronoun} likes to tinker with things."
+	},
+	"Greedy": {
+		"title": "Greedy",
+		"description": "Always wants more than everyone else."
+	},
+	"Creepy": {
+		"title": "Creepy",
+		"description": "Makes others around them feel nervous."
+	},
+	"HighlyStrung": {
+		"title": "Highly strung",
+		"description": "Reacts quickly to mood changes."
+	},
+	"Simple": {
+		"title": "Simple",
+		"description": "Not very intelligent."
+	}
+}

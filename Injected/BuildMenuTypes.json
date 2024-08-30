@@ -1,0 +1,26 @@
+{
+    "atmosphere": {
+        "title": "Atmosphere"
+    },
+    "cargo": {
+        "title": "Cargo"
+    },
+    "furniture": {
+        "title": "Furniture"
+    },
+    "power": {
+        "title": "Power"
+    },
+    "production": {
+        "title": "Production"
+    },
+    "structure": {
+        "title": "Structure"
+    },
+    "entertainment": {
+        "title": "Entertainment"
+    },
+    "misc": {
+        "title": "Miscellaneous"
+    }
+}

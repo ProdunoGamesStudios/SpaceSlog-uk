@@ -1,0 +1,14 @@
+{
+    "None": {
+        "title": "No atmosphere",
+        "description": "There is no atmosphere here. This means there is very little pressure or gasses, if any at all."
+    },
+    "Empty": {
+        "title": "Empty atmosphere",
+        "description": "You must fill this atmosphere with your own gasses."
+    },
+    "EarthLike": {
+        "title": "Earth-like",
+        "description": "This atmosphere has earth like properties."
+    }
+}

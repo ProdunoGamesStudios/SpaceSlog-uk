@@ -1,0 +1,50 @@
+{
+    "Farming": {
+        "title": "Farming",
+        "description": "A high proportion of the {faction_name} lands and people are invested in farming."
+    },
+    "Mining": {
+        "title": "Mining",
+        "description": "With an abundance of minerals or rare metals, {faction_name} devotes considerable resources to mining and processing."
+    },
+    "Capitalist": {
+        "title": "Capitalist",
+        "description": "Everything belongs to someone, and if there is demand for something, there's some money to be made."
+    },
+    "Unassimilable": {
+        "title": "Patriotic",
+        "description": "Extremely patriotic to the cause. Unable to be taken in or absorbed."
+    },
+    "Explorer": {
+        "title": "Explorer",
+        "description": "Innate curiosity and a boundless sense of adventure is common amongst the people of {faction_name}."
+    },
+    "Rebellious": {
+        "title": "Rebellious",
+        "description": "Rules are made to be broken, and here rules are broken well!"
+    },
+    "Psychotic": {
+        "title": "Psychotic",
+        "description": "How is anyone supposed to know what is real and what is in your head? The people of {faction_name} certainly can't tell."
+    },
+    "Obtruder": {
+        "title": "Obtruder",
+        "description": "Continuously tries to force or impose their own ideas onto others."
+    },
+    "Defiant": {
+        "title": "Defiant",
+        "description": "Unwilling to negotiate in trades or succumb to bribes."
+    },
+    "Militar": {
+        "title": "Militar",
+        "description": "The only way to ensure survival in a harsh universe is with a disciplined military."
+    },
+    "Mechanical": {
+        "title": "Mechanical",
+        "description": "{faction_name} has some of the best engineering minds in the universe."
+    },
+    "Scientific": {
+        "title": "Scientific",
+        "description": "A robust and analytical way of thinking offers them a greater understanding of the galaxy around them."
+    }
+}

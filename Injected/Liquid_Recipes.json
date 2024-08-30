@@ -1,0 +1,14 @@
+{
+	"Water": {
+		"title": "Water",
+        "description": "Melt ice down into water."
+	},
+    "Wine": {
+		"title": "Wine",
+        "description": "Ferment water and berries together to create wine."
+	},
+    "VegetableBroth": {
+		"title": "Vegetable broth",
+        "description": "Make a tasty herb and vegetable broth."
+	}
+}

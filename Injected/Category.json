@@ -1,0 +1,20 @@
+{
+    "Wood": {
+        "title": "Wood"
+    },
+    "Metal": {
+        "title": "Metal"
+    },
+    "Mineral": {
+        "title": "Minerals"
+    },
+    "Fabric": {
+        "title": "Fabric"
+    },
+    "Liquid": {
+        "title": "Liquid"
+    },
+    "Solid": {
+        "title": "Solid"
+    }
+}

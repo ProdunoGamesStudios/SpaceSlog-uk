@@ -1,0 +1,18 @@
+{
+	"Earther": {
+		"title": "Earther",
+        "description": "A human that has spent generations on Earth."
+	},
+	"Spacer": {
+		"title": "Spacer",
+        "description": "A human that has spent generations in space."
+	},
+    "SpaceWorm": {
+		"title": "Space worm",
+		"description": "A large gross squishy looking worm, surprisingly tough and resilient."
+	},
+    "Rodent": {
+		"title": "Rat",
+		"description": "A small rodent."
+	}
+}

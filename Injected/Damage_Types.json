@@ -1,0 +1,59 @@
+{
+	"General": {
+		"title": "General"
+	},
+	"Explosion": {
+		"title": "Explosion"
+	},
+	"Mining": {
+		"title": "Mined"
+	},
+	"Dehydration": {
+		"title": "Dehydration"
+	},
+	"Starvation": {
+		"title": "Starvation"
+	},
+	"Exhaustion": {
+		"title": "Exhaustion"
+	},
+	"Suffocation": {
+		"title": "Suffocation"
+	},
+	"OrganFailure": {
+		"title": "Organ failure"
+	},
+	"Punch": {
+		"title": "Punch"
+	},
+	"Kick": {
+		"title": "Kick"
+	},
+	"Bite": {
+		"title": "Bite"
+	},
+	"Scratch": {
+		"title": "Scratch"
+	},
+	"Poke": {
+		"title": "Poke"
+	},
+	"Headbutt": {
+		"title": "Headbutt"
+	},
+	"Gouge": {
+		"title": "Gouge"
+	},
+	"Stomp": {
+		"title": "Stomp"
+	},
+	"Whip": {
+		"title": "Whip"
+	},
+	"Rot": {
+		"title": "Rot"
+	},
+	"Deteriorate": {
+		"title": "Deteriorate"
+	}
+}

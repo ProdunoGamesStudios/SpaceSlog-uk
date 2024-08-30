@@ -1,0 +1,35 @@
+{
+    "MainMenu": {
+        "title": "Last Grasp For Humanity"
+    },
+    "Track1": {
+        "title": "Andromeda's Way"
+    },
+    "Track2": {
+        "title": "Dancing Flares"
+    },
+    "Track3": {
+        "title": "Dark Origins"
+    },
+    "Track4": {
+        "title": "Drifting On"
+    },
+    "Track5": {
+        "title": "Exploring The Void"
+    },
+    "Track6": {
+        "title": "Five Moons"
+    },
+    "Track7": {
+        "title": "Just A Light Year Away"
+    },
+    "Track8": {
+        "title": "Lunar Shadow"
+    },
+    "Track9": {
+        "title": "Shifting Matter"
+    },
+    "Track10": {
+        "title": "Violet Sun"
+    }
+}

@@ -1,0 +1,18 @@
+{
+	"Gladius": {
+		"title": "Gladius",
+		"description": "A short sword used for close combat."
+	},
+	"HandGun": {
+		"title": "Handgun",
+		"description": "A small handgun used for ranged combat."
+	},
+	"SubMachineGun": {
+		"title": "Sub machine gun",
+		"description": "A rapid fire sub machine gun."
+	},
+	"RoundShield": {
+		"title": "Round shield",
+		"description": "A round shield used to block attacks."
+	}
+}

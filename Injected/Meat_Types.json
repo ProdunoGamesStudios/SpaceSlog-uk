@@ -1,0 +1,10 @@
+{
+	"Human": {
+		"title": "Meat",
+        "description": "Thick and red."
+	},
+    "Worm": {
+		"title": "Meat",
+		"description": "Green and gooey."
+	}
+}

@@ -1,0 +1,23 @@
+{
+    "Debug": {
+        "title": "Debug"
+    },
+    "Tile": {
+        "title": "Tile"
+    },
+    "Edge": {
+        "title": "Edge"
+    },
+    "Room": {
+        "title": "Room"
+    },
+    "Zone": {
+        "title": "Zone"
+    },
+    "Chevron": {
+        "title": "Chevron"
+    },
+    "Blueprint": {
+        "title": "Blueprint"
+    }
+}

@@ -1,0 +1,74 @@
+{
+	"black": {
+		"title": "Black"
+	},
+	"off_black": {
+		"title": "Off black"
+	},
+	"dark_brown": {
+		"title": "Dark brown"
+	},
+	"med_dark_brown": {
+		"title": "Medium dark brown"
+	},
+	"chestnut_brown": {
+		"title": "Chestnut brown"
+	},
+	"light_chestnut_brown": {
+		"title": "Light chestnut brown"
+	},
+	"dark_golden_brown": {
+		"title": "Dark golden brown"
+	},
+	"light_golden_brown": {
+		"title": "Light golden brown"
+	},
+	"honey_blonde": {
+		"title": "Honey blonde"
+	},
+	"bleach_blonde": {
+		"title": "Bleach blonde"
+	},
+	"ash_blonde": {
+		"title": "Ash blonde"
+	},
+	"ash_brown": {
+		"title": "Ash brown"
+	},
+	"light_blonde": {
+		"title": "Light blonde"
+	},
+	"golden_blonde": {
+		"title": "Golden blonde"
+	},
+	"strawberry_blonde": {
+		"title": "Strawberry-blonde"
+	},
+	"light_auburn": {
+		"title": "Light auburn"
+	},
+	"dark_auburn": {
+		"title": "Dark auburn"
+	},
+	"dark_grey": {
+		"title": "Dark grey"
+	},
+	"medium_grey": {
+		"title": "Medium grey"
+	},
+	"light_grey": {
+		"title": "Light grey"
+	},
+	"white_blonde": {
+		"title": "White blonde"
+	},
+	"platinum_blonde": {
+		"title": "Platinum blonde"
+	},
+	"red": {
+		"title": "Red"
+	},
+	"cotta": {
+		"title": "Cotta"
+	}
+}

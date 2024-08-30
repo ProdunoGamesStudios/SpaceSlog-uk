@@ -1,0 +1,22 @@
+{
+    "PassingShip": {
+        "title": "Passing ship",
+        "description": "Our scanners have detected a ship nearby. It should be within communication range shortly."
+    },
+    "Asteroids": {
+        "title": "Asteroid field",
+        "description": "We are passing over an asteroid field. We can attempt to mine some but must be careful of parasites and infections."
+    },
+    "Debris": {
+        "title": "Debris",
+        "description": "We are detecting some kind of debris nearby, we could scavenge the wreckage for supplies or see if there are any survivors. We must be wary of pirates in the area."
+    },
+    "CryoChamber": {
+        "title": "Cryo chamber",
+        "description": "There appears to be a Cryo Chamber floating close by. We could see if anyone's inside."
+    },
+    "HostileCreatureAssault": {
+        "title": "Assault",
+        "description": "Hostile creatures have been spotted within range of the ship."
+    }
+}

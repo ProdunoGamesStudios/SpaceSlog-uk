@@ -1,0 +1,17 @@
+{
+    "PassingShip": {
+        "title": "Passing ship"
+    },
+    "AsteroidField": {
+        "title": "Asteroid field"
+    },
+    "BattleDebris": {
+        "title": "Battle debris"
+    },
+    "CryoChamber": {
+        "title": "Cryo chamber spotted"
+    },
+    "HostileCreatureAssault": {
+        "title": "Hostile creatures have entered the area"
+    }
+}

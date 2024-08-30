@@ -1,0 +1,29 @@
+{
+    "Incapacitated": {
+        "title": "Incapacitated."
+    },
+    "Death": {
+        "title": "Dead."
+    },
+    "Collapsed": {
+        "title": "Collapsed."
+    },
+    "Idle": {
+        "title": "Idle."
+    },
+    "Injured": {
+        "title": "Injured."
+    },
+    "Ill": {
+        "title": "Ill."
+    },
+    "Bleeding": {
+        "title": "Bleeding."
+    },
+    "Away": {
+        "title": "Away."
+    },
+    "MentalBreak": {
+        "title": "On mental break."
+    }
+}

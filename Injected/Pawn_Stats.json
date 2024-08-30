@@ -1,0 +1,14 @@
+{
+    "MiningSpeed": {
+        "title": "Mining speed",
+        "description": "How quickly this creature can hit when mining."
+    },
+    "SowingSpeed": {
+        "title": "Sowing speed",
+        "description": "How quickly this creature can sow."
+    },
+    "Trading": {
+        "title": "Trading",
+        "description": "How well this creature can trade."
+    }
+}

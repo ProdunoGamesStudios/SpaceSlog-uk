@@ -1,0 +1,34 @@
+{
+    "CancelBlueprint": {
+        "title": "Cancel",
+        "description": "Cancels any designated work."
+    },
+    "Deconstruct": {
+        "title": "Deconstruct",
+        "description": "Removes an already built entity."
+    },
+    "DeconstructFlooringOverlay": {
+        "title": "Deconstruct flooring overlay",
+        "description": "Removes any flooring overlays such as carpets."
+    },
+    "DeconstructCables": {
+        "title": "Deconstruct cables",
+        "description": "Removes any already built cables."
+    },
+    "DeconstructDucting": {
+        "title": "Deconstruct ducting",
+        "description": "Removes an already built ducting."
+    },
+    "CancelFlooringOverlay": {
+        "title": "Cancel flooring overlay",
+        "description": "Removes any designated flooring overlay work such as carpets."
+    },
+    "CancelCables": {
+        "title": "Cancel cables",
+        "description": "Removes any designated cables."
+    },
+    "CancelDucting": {
+        "title": "Cancel ducting",
+        "description": "Removes any designated ducting."
+    }
+}

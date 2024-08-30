@@ -1,0 +1,26 @@
+{
+    "SmallRockAsteroid": {
+        "title": "Asteroid",
+        "description": "May contain precious resources."
+    },
+    "LargeRockAsteroid": {
+        "title": "Asteroid",
+        "description": "May contain precious resources."
+    },
+    "SmallIceAsteroid": {
+        "title": "Asteroid",
+        "description": "May contain precious resources."
+    },
+    "LargeIceAsteroid": {
+        "title": "Asteroid",
+        "description": "May contain precious resources."
+    },
+    "SmallSiliconAsteroid": {
+        "title": "Asteroid",
+        "description": "May contain precious resources."
+    },
+    "LargeSiliconAsteroid": {
+        "title": "Asteroid",
+        "description": "May contain precious resources."
+    }
+}

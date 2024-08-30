@@ -1,0 +1,30 @@
+{
+    "CutProtection": {
+        "title": "Cut protection",
+        "description": "Protects the wearer from cut damage."
+    },
+    "CutDamage": {
+        "title": "Cut damage",
+        "description": "The amount of cut damage inflicted."
+    },
+    "BluntProtection": {
+        "title": "Blunt protection",
+        "description": "Protects the wearer from blunt damage."
+    },
+    "BluntDamage": {
+        "title": "Blunt damage",
+        "description": "The amount of blunt damage inflicted."
+    },
+    "RadiationProtection": {
+        "title": "Radiation protection",
+        "description": "Protects the wearer from radiation."
+    },
+    "HeatInsulation": {
+        "title": "Heat insulation",
+        "description": "Insulates the wearer from heat."
+    },
+    "ColdInsulation": {
+        "title": "Cold insulation",
+        "description": "Insulates the wearer from the cold."
+    }
+}

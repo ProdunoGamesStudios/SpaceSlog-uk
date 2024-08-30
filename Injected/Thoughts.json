@@ -1,0 +1,62 @@
+{
+    "Thirsty": {
+		"title": "Dehydrated"
+	},
+    "Starving": {
+		"title": "Starving"
+	},
+	"Exhausted": {
+		"title": "Exhausted"
+	},
+	"ColonistDied": {
+		"title": "Colonist died"
+	},
+	"Ill": {
+		"title": "Has an illness"
+	},
+    "LowOxygen": {
+		"title": "Low Oxygen"
+	},
+    "Optimistic":  {
+		"title": "Optimistic"
+	},
+    "PlentyOfReserves":  {
+		"title": "Plenty of reserves"
+	},
+    "Content":  {
+		"title": "Content"
+	},
+    "AteOnFloor":  {
+		"title": "Eaten on the floor."
+	},
+    "SharesRoom":  {
+		"title": "Shares a room."
+	},
+    "SleptOnFloor":  {
+		"title": "Slept on the floor."
+	},
+	"SleptInComfyBed":  {
+		"title": "Slept on the floor."
+	},
+	"SharingBed":  {
+		"title": "Slept on the floor."
+	},
+    "Cramped":  {
+		"title": "Cramped."
+	},
+    "Spacious":  {
+		"title": "Spacious."
+	},
+	"UnsatisfiedWithRole":  {
+		"title": "Unsatisfied with given role."
+	},
+	"SatisfiedWithRole":  {
+		"title": "Satisfied with given role."
+	},
+	"Depressed":  {
+		"title": "Depressed."
+	},
+	"HappyThoughts":  {
+		"title": "Happy thoughts."
+	}
+}

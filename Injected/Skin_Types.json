@@ -1,0 +1,14 @@
+{
+	"Human": {
+		"title": "Skin",
+        "description": "Waterproof but weak."
+	},
+    "Worm": {
+		"title": "Skin",
+		"description": "Relatively strong."
+	},
+    "Rodent": {
+		"title": "Skin",
+		"description": "Relatively strong."
+	}
+}

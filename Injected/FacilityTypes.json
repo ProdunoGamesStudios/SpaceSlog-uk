@@ -1,0 +1,14 @@
+{
+    "PlayerShip": {
+        "title": "Player ship"
+    },
+    "TradeShip": {
+        "title": "Trade ship"
+    },
+    "PirateShip": {
+        "title": "Pirate ship"
+    },
+    "SlaveShip": {
+        "title": "Slave ship"
+    }
+}

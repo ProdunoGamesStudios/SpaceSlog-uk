@@ -1,0 +1,49 @@
+{
+    "PowerReceiverSwitch": {
+        "title": "Toggle power."
+    },
+    "PowerSourceSwitch": {
+        "title": "Toggle power."
+    },
+    "AutoRefuel": {
+        "title": "Toggle automatic refuelling."
+    },
+    "Cancel": {
+        "title": "Cancel blueprint.",
+        "description": "Cancels and removes the current blueprint."
+    },
+    "Deconstruct": {
+        "title": "Toggle deconstruct."
+    },
+    "Draft": {
+        "title": "Toggle draft."
+    },
+    "DeleteZone": {
+        "title": "Remove zone.",
+        "description": "Removes this zone."
+    },
+    "ExpandZone": {
+        "title": "Expand zone.",
+        "description": "Expand the size of this zone."
+    },
+    "ReduceZone": {
+        "title": "Reduce zone.",
+        "description": "Reduce the size of this zone."
+    },  
+    "ChangeColour": {
+        "title": "Change colour.",
+        "description": "Change the colour of this zone."
+    },
+    "ZoneVisibility": {
+        "title": "Zone visibility."
+    },
+    "Forbid": {
+        "title": "Toggle interaction."
+    },
+    "Mine": {
+        "title": "Toggle mining."
+    },
+    "Harvest": {
+        "title": "Force harvest."
+    }
+}

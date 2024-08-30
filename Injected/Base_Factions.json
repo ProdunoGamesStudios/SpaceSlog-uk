@@ -1,0 +1,15 @@
+{
+	"Player": {
+		"title": "Player faction",
+		"description": "This is the player's faction."
+	},
+	"Reavers": {
+		"description": "A once civilised species, driven to insanity and lost on the fringes of space."
+	},
+	"Pirates": {
+		"description": "Let down and forgotten by society, they must now pillage and plunder whatever they can in order to survive."
+	},
+	"SplinterFaction": {
+		"description": "A breakaway faction that has found itself dispersed across the universe."
+	}
+}

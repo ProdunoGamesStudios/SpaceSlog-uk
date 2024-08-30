@@ -1,0 +1,86 @@
+{
+    "Thruster": {
+        "title": "Thruster"
+    },
+    "ButtonHover": {
+        "title": "Button hover"
+    },
+    "ButtonHoverRandomPitch": {
+        "title": "Button hover"
+    },
+    "ButtonClick": {
+        "title": "Button click"
+    },
+    "ButtonTab": {
+        "title": "Button click"
+    },
+    "BuildHover": {
+        "title": "Button click"
+    },
+    "BuildClick": {
+        "title": "Button click"
+    },
+    "ButtonError": {
+        "title": "Button click"
+    },
+    "AlertSound": {
+        "title": "Button click"
+    },
+    "AlertText": {
+        "title": "Button click"
+    },
+    "PlaceObject": {
+        "title": "Button click"
+    },
+    "PlaceObjectRandomPitch": {
+        "title": "Button click"
+    },
+    "PlaceObjectError": {
+        "title": "Button click"
+    },
+    "PlaceMultiBuild": {
+        "title": "Button click"
+    },
+    "ObjectSelect": {
+        "title": "Button click"
+    },
+    "MultiBuildStart": {
+        "title": "Button click"
+    },
+    "Draft": {
+        "title": "Button click"
+    },
+    "DropObject": {
+        "title": "Button click"
+    },
+     "DoorMedium": {
+        "title": "Door medium"
+    },
+    "BuildWeld": {
+        "title": "Welding"
+    },
+    "Explosion": {
+        "title": "Explosion"
+    },
+    "ArcadeMachinePlayingOne": {
+        "title": "Arcade machine playing"
+    },
+    "ArcadeMachinePlayingTwo": {
+        "title": "Arcade machine playing"
+    },
+    "ArcadeMachineLose": {
+        "title": "Arcade machine lose"
+    },
+    "AlertAlarm": {
+        "title": "Alert Alarm"
+    },
+    "MiningHit": {
+        "title": "Mining hit"
+    },
+    "DestroyRock": {
+        "title": "Mining hit"
+    },
+    "SpaceWormDead": {
+        "title": "Spaceworm dead"
+    }
+}

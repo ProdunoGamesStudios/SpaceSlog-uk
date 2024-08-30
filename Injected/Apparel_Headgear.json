@@ -1,0 +1,18 @@
+{
+	"SpaceHelmet": {
+		"title": "Space helmet",
+		"description": "Part of an EVA suit used to perform orbital extra-vehicular activity, the spacesuit counterpart is also needed for full functionality. Extremely uncomfortable to sleep in."
+	},
+	"CowboyHat": {
+		"title": "Cowboy hat",
+		"description": "A cowboy hat."
+	},
+	"BeanieHat": {
+		"title": "Beanie hat",
+		"description": "A beanie hat."
+	},
+	"CombatHelmet": {
+		"title": "Combat helmet",
+		"description": "A hard helmet for use in combat."
+	}
+}

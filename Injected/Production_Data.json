@@ -1,0 +1,30 @@
+{
+	"Transponder": {
+		"title": "Transponder",
+		"description": "It is mandatory for all ships to have a powered and functioning transponder. The construction of anything other than hull is forbidden until one has been installed."
+	},
+	"NavConsole": {
+		"title": "Navigation console",
+		"description": "Required to navigate a ship throughout the universe."
+	},
+	"CommConsole": {
+		"title": "Comms console",
+		"description": "Used for communication with other ships."
+	},
+	"SmallThruster": {
+		"title": "Small thruster",
+		"description": "Provides a small amount of forward thrust when activated."
+	},
+	"MediumThruster": {
+		"title": "Medium thruster",
+		"description": "Provides a moderate amount of forward thrust when activated."
+	},
+	"LargeThruster": {
+		"title": "Large thruster",
+		"description": "Provides a large amount of forward thrust when activated."
+	},
+	"Aeroponics": {
+		"title": "Aeroponics",
+		"description": " A place to grow plants and vegetables."
+	}
+}

@@ -1,0 +1,62 @@
+{
+    "SleepingSpot": {
+        "title": "Sleeping spot",
+        "description": "An uncomfortable rescue or sleeping spot for one humanoid."
+    },
+    "SleepingBag": {
+        "title": "Sleeping bag",
+        "description": "An uncomfortable place for one humanoid to sleep."
+    },
+    "SingleBed": {
+        "title": "Single bed",
+        "description": "A comfortable place for one humanoid to sleep."
+    },
+    "DoubleBed": {
+        "title": "Double bed",
+        "description": "A comfortable place for two humanoids to sleep."
+    },
+    "HospitalBed": {
+        "title": "Single Hospital bed",
+        "description": "A comfortable place for one humanoid to rest and recover."
+    },
+    "CryoPod": {
+        "title": "Cryo pod",
+        "description": "Freezes creatures in time, preventing ageing for as long as this item has power."
+    },
+    "SmallTable": {
+        "title": "Small table",
+        "description": "A small table that is a relatively comfortable place for a humanoid to eat. At least it's better than eating off the floor."
+    },
+    "MediumTable": {
+        "title": "Medium table",
+        "description": "A table that is a relatively comfortable place for a humanoid to eat. At least it's better than eating off the floor."
+    },
+    "LargeTable": {
+        "title": "Large table",
+        "description": "A large table that is a relatively comfortable place for a humanoid to eat. At least it's better than eating off the floor."
+    },
+    "Chair": {
+        "title": "Chair",
+        "description": "A relatively comfortable place for a humanoid to sit."
+    },
+    "Stool": {
+        "title": "Stool",
+        "description": "Marginally better than sitting on the floor."
+    },
+    "CaptainsChair": {
+        "title": "Captains chair",
+        "description": "A chair suitable for a Captain."
+    },
+    "CommandChair": {
+        "title": "Command chair",
+        "description": "A chair mostly used on the bridge."
+    },
+    "FloorLight": {
+        "title": "Floor light",
+        "description": "A light that fits into the floor."
+    },
+    "AlarmFloorLight": {
+        "title": "Alarm floor light",
+        "description": "A light that fits into the floor."
+    }
+}

@@ -1,0 +1,38 @@
+{
+	"SpaceSuit": {
+		"title": "Space suit",
+		"description": "Part of an EVA suit used to perform orbital extra-vehicular activity, a helmet is also needed for full functionality. These suits have built in rebreathers which clean any waste gasses. Extremely uncomfortable to sleep in."
+	},
+	"JumpSuit": {
+		"title": "Overalls",
+		"description": "Clothing that covers the top and bottom half of the body."
+	},
+	"FlakVest": {
+		"title": "Ballistic vest",
+		"description": "Designed to reduce the impact of bullets."
+	},
+	"Jacket": {
+		"title": "Jacket",
+		"description": "A regular jacket."
+	},
+	"DusterJacket": {
+		"title": "Duster jacket",
+		"description": "A jacket that covers the whole body."
+	},
+	"Jeans": {
+		"title": "Jeans",
+		"description": "Comfortable clothing that covers the lower half of the body."
+	},
+	"Shirt": {
+		"title": "Shirt",
+		"description": "Comfortable clothing that cover the upper half of the body."
+	},
+	"Shoes": {
+		"title": "Shoes",
+		"description": "A pair of comfortable trainers."
+	},
+	"Boots": {
+		"title": "Boots",
+		"description": "A pair of comfortable boots."
+	}
+}

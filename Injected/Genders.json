@@ -1,0 +1,18 @@
+{
+	"Male": {
+		"title": "male",
+		"description": "Has male reproductive organs."
+	},
+	"Female": {
+		"title": "female",
+		"description": "Has female reproductive organs."
+	},
+	"Neutral": {
+		"title": "neutral",
+		"description": "Has neither male or female reproductive organs."
+	},
+	"Hermaphrodite": {
+		"title": "hermaphrodite",
+		"description": "Has male and female reproductive organs."
+	}
+}

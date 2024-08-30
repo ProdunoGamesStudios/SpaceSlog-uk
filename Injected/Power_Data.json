@@ -1,0 +1,26 @@
+{
+    "Cables": {
+        "title": "Power cable",
+        "description": "Carries electricity."
+    },
+    "SmallGenerator": {
+        "title": "Small generator",
+        "description": "Consumes Plutonium stored in Fuel Cells to generate a small amount of electricity."
+    },
+    "LargeGenerator": {
+        "title": "Large generator",
+        "description": "Consumes Plutonium stored in Fuel Cells to generate a large amount of electricity."
+    },
+    "SmallSolarPanel": {
+        "title": "Small solar panel",
+        "description": "Generates a small amount of electricity from natural light sources, such as a star."
+    },
+    "LargeSolarPanel": {
+        "title": "Large solar panel",
+        "description": "Generates electricity from natural light sources, such as a star."
+    },
+    "Battery": {
+        "title": "Battery",
+        "description": "Stores an amount of electricity which is available for use as as necessary."
+    }
+}

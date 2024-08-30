@@ -1,0 +1,30 @@
+{
+    "Ducting": {
+        "title": "Atmospheric ducting",
+        "description": "Carries gasses."
+    },
+    "AirVent": {
+        "title": "Air vent",
+        "description": "Vents atmosphere into a room, but only if connected to an oxygen generator via ducting."
+    },
+    "LifeSupport": {
+        "title": "Life support",
+        "description": "Generates a small amount of oxygen which can be dispersed through vents, and also filters and cleans hazardous gasses and CO2 from the atmosphere."
+    },
+    "OxygenGenerator": {
+        "title": "Oxygen generator",
+        "description": "Generates oxygen which can be dispersed through vents."
+    },
+    "LargeOxygenGenerator": {
+        "title": "Large Oxygen generator",
+        "description": "Generates a large quantity of oxygen which can be dispersed through vents."
+    },
+    "GasScrubber": {
+        "title": "Gas scrubber",
+        "description": "Filters and cleans hazardous gasses and CO2 from the atmosphere."
+    },
+    "OxygenTank": {
+        "title": "Oxygen tank",
+        "description": "Stores a small amount of oxygen."
+    }
+}
