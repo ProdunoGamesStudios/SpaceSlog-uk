@@ -1,0 +1,14 @@
+{
+  "news": "Ця гра знаходиться у Пре-Альфа версії, тому все ще має багато багів. Зважаючи на це, якщо ви зустрінете які-небудь баги чи матимете певні пропозиції, тоді, будь ласка, відвідайте наші [color=ORANGE][url={forums_link}]forums[/url][/color] або [color=ORANGE][url={discord_link}]discord[/url][/color].\n\nІгровий функціонал все ще додається та розвивається, поточний стан гри не відображає фінального продукту.\n\nЯкщо ви матимете будь-які запитання або фідбек - просимо відвідати наші форуми або Discord за посиланнями вище.\n\n\nДякуємо та бажаємо гарної гри!",
+  "demo_news": "Вітаємо у демо-версії SpaceSlog! Будь ласка, зауважте, що гра знаходиться у ранньому доступі тому в ній все ще можуть бути багато багів та проблем. З огляду на це, якщо ви знайдете будь-які баги чи матимете певні пропозиції, тоді будь ласка відвідайте наші [color=ORANGE][url={forums_link}]forums[/url][/color] або [color=ORANGE][url={discord_link}]discord[/url][/color].\n\nЦя демо-версія не має повного функціоналу, але дає гравцям спробувати частину того, що ця гра може запропонувати. Поточний стан гри не відображає фінального продукту.\n\nЯкщо ви знайдете будь-які баги чи матимете фідбек, тоді, будь ласка, зверніться до наших форумів або на Discord-сервер за посиланнями вище.\n\n\nДякуємо та бажаємо гарної гри!",
+  "exit_survey": "Thank you for playing the pre-release of SpaceSlog.\n\nPlease ensure you visit one of the links below to report any bugs or issues and to also offer any feedback.\nYour feedback is highly valuable and I make sure I read every single post.\n\n[color=ORANGE][url={discord_link}]Discord[/url][/color]\n[color=ORANGE][url={forums_link}]Forums[/url][/color]\n[color=ORANGE][url={steam_discussions_link}]Steam Discussions[/url][/color]\n\n\nWhat to expect:",
+  "point_1": "A procedurally generated galaxy to explore.",
+  "point_2": "Different planets to discover and the means to explore them.",
+  "point_3": "Complex combat and medical systems.",
+  "point_4": "Ship to ship combat and boarding.",
+  "point_5": "More realistic ship simulations.",
+  "point_6": "More alien lifeforms and other animals.",
+  "point_7": "Derelict ships, facilities and other anomalies.",
+  "point_8": "A different way to research and craft items.",
+  "point_9": "Plus much more!"
+}

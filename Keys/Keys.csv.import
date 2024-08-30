@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://q2opwipv04da"
+
+[deps]
+
+files=["res://Data/Core/Language/uk/Keys/Keys.uk.translation"]
+
+source_file="res://Data/Core/Language/uk/Keys/Keys.csv"
+dest_files=["res://Data/Core/Language/uk/Keys/Keys.uk.translation"]
+
+[params]
+
+compress=true
+delimiter=0

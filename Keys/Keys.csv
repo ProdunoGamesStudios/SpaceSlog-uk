@@ -1,0 +1,214 @@
+Keys,uk
+UI_NOT_IMPLEMENTED,Ще в розробці
+UI_NEW_GAME,Нова Гра
+UI_LOAD_GAME,Завантажити гру
+UI_MODS,Модулі
+UI_OPTIONS,Налаштування
+UI_CREDITS,Титри
+UI_QUIT,Вихід
+UI_BACK,Назад
+UI_CONFIRM,Підтвердити
+UI_CREATIVE_MODE,Креативний режим
+UI_GAME_VERSION,Версія гри
+UI_AUTHOR,Автор
+UI_NEWS,Новини
+UI_TWITTER,Твіттер (X)
+UI_YOUTUBE,YouTube
+UI_DISCORD,Discord
+UI_MUSIC,Музика
+UI_FORUMS,Форуми
+UI_CHOOSE_STORY,Оберіть свою історію
+UI_WORLD_SEED,Сід світу
+UI_SKIP_STORY,Пропустити передісторію
+UI_DIFFICULTY,Складність
+UI_SCENARIO,Сценарій
+UI_SHIPBUILDER,Кораблебудівник
+UI_TRAITS,Риси
+UI_TIMID,Боязка
+UI_NORMAL,Нормальна
+UI_BRUTAL,Брутальна
+UI_CHOOSE_CREW,Оберіть ваш екіпаж
+UI_AVAILABLE,Доступно
+UI_SELECTED,Обрані
+UI_BACKSTORY,Передісторія
+UI_FIRST_NAME,Ім’я
+UI_LAST_NAME,Прізвище
+UI_NICKNAME,Прізвисько
+UI_LAWS,Закони
+UI_CHARACTERISTICS,Характеристики
+UI_MEDICAL_CONDITIONS,Медичні стани
+UI_NONE,Нічого
+UI_VOCATION,Покликання
+UI_PARTY_SKILLS,Навички команди
+UI_HEADGEAR,Головний убір
+UI_RANDOMISE,Рандомізувати
+UI_OPTIONS,Налаштування
+UI_GAMEPLAY,Геймплей
+UI_PAUSE_ON_ALERT,Пауза в разі тривоги
+UI_SHOW_NAME_LABEL,Показувати ім’я під пішаками
+UI_SHOW_FPS,Показувати FPS
+UI_SHOW_CUSTOM_MOUSE,Показувати кастомний курсор
+UI_ENABLE_MOUSE_SCROLL,Увімкнути прокручування мишкою
+UI_DEV_MODE,Увімкнути режим розробника
+UI_GRAPHICS,Графіка
+UI_RESOLUTION,Розширення
+UI_VSYNC,Увімкнути Vsync
+UI_FULLSCREEN,Повний Екран
+UI_BORDERLESS_WINDOW,Увімкнути у вікні без рамок
+UI_SOUNDS,Звуки
+UI_MASTER_VOLUME,Загальна гучність
+UI_MUSIC_VOLUME,Гучність музики
+UI_SOUNDS_VOLUME,Гучність звуків
+UI_MENU_VOLUME,Гучність меню
+UI_CLOSE,Закрити
+UI_CANCEL,Відмінити
+UI_OK,Ок
+UI_OPEN_USER_DIR,Відкрити папку користувача
+UI_SAVE_MENU,Зберегти гру
+UI_LOAD_MENU,Завантажити гру
+UI_LOAD,Завантажити гру
+UI_SAVE,Нове збереження
+UI_OVERWRITE,Перезаписати
+UI_LANGUAGE_CREDITS,Мовні субтитри
+UI_RELATIONS,Відносини
+UI_RACE,Раса
+UI_SPECIES,Вид
+UI_TYPE,Тип
+UI_POWER,Потужність
+UI_TECH_LEVEL,Рівень технологій
+UI_CREW,Екіпаж
+UI_NAME,Ім’я
+UI_MORALE,Моральний стан
+UI_STATUS,Статус
+UI_ASSIGNED_ROOM,Призначити кімнату
+UI_ASSIGNED_ROLE,Призначити роль
+UI_CONTINUE,Продовжити
+UI_SAVE_LOAD,Меню збереженнь
+UI_EXIT,Вихід
+UI_EXIT_TO_OS,Вихід до ОС
+UI_CONTINUE,Продовжити
+UI_GAME_OVER,Гру Закінчено
+UI_CARGO_CAPACITY,Місткість вантажного простору
+UI_MONEY,Кредити
+UI_RESOURCE,Ресурс
+UI_STARTING_ITEMS,Предмети на старті:
+UI_YOUR_STOCK,Ваш запас
+UI_SELL_PRICE,Ціна продажу
+UI_SELL,Продати
+UI_PURCHASE,Купити
+UI_BUY_PRICE,Ціна покупки
+UI_TRADER_STOCK,Запаси торговця
+UI_TOTAL_TRADE_VALUE,Загальна вартість:
+UI_TRADE,Торгувати
+UI_PLAYER,Гравець
+UI_TRADER,Торговець
+UI_RESET,Скинути
+UI_ACCEPT,Прийняти
+UI_ADD,Додати
+UI_TYPE_NEW_ROLE,Впишіть вашу нову роль тут
+UI_SHIP_ROLES,Ролі Корабля (?)
+UI_JOBS,Роботи
+UI_SCHEDULE,Графік
+UI_ADD_REMOVE_ROLES,Додати/скасувати роль
+UI_ROLE_NAME,Назва ролі
+UI_NUMBER_OF_MEMBERS,# учасників
+UI_HOTKEY,Хоткей
+UI_HEALTH,Здоров’я
+UI_NO_MATS_REQ,Матеріали не потрібні
+HINT_ROTATE_LEFT,Повернути ліворуч
+HINT_ROTATE_RIGHT,Повернути праворуч
+UI_QUARTERMASTER,Інтендант
+UI_CAPTAIN,Капітан
+UI_REG_SHIP_NAME,Зареєстрована назва
+UI_SYS_MONITOR,Системний монітор
+UI_ALERT,Тривога
+UI_CARGO,Вантаж
+UI_POWER_OUTPUT,Виробіток е-енергії
+UI_POWER_USAGE,Споживання е-енергії
+UI_STORED_POWER,Е-енергії в запасі
+UI_STORED_GAS,Газу в запасі
+UI_MAX_STORAGE,Максимальний запас
+UI_WORK_TO_BUILD,Прогрес будівництва
+UI_GAS_PROVIDED,Виробіток газу
+UI_GAS_SUPPLIED,Газу постачаәться
+UI_GAS_USAGE,Споживання газу 
+UI_GAS_OUTPUT,Газу виробляәться
+UI_FUEL_REQUIRED,Пального потрібно
+UI_FUEL,Пальне
+UI_ENTER_NAME,Введіть назву
+UI_AUTO_SAVE,Увімкнути авто-збереження
+UI_HELP,Допомога
+UI_GITHUB,Github
+UI_MAX_HP,Максимально ОЗ
+UI_DETERIORATION,Швидкість псування
+UI_FLAMMABILITY,Горючість
+UI_MARKET_VALUE,Ринкова ціна
+UI_PRICE_MULTIPLIER,Множник ціни 
+UI_MASS,Вага  
+UI_COMFORT,Комфорт
+DEFAULT_NO_NAME,Без імені
+DEFAULT_NO_TITLE,Без назви
+DEFAULT_NO_DESCRIPTION,Без опису
+UI_DESCRIPTION,Опис
+UNSUPPORTED_RESOLUTION,Непідтримуване розширення!
+UI_SHIP_WEIGHT_CAP,Максимальне навантаження корабля
+UI_ZONES,Зони
+UI_ALLOW_ALL,Дозволити все
+UI_REMOVE_ALL,Забрати все
+UI_PROFESSION,Професія
+UI_PREVIOUS,Минулий
+UI_CURRENT,Поточний
+UI_INFO,Інфо
+UI_AGE,Вік
+UI_GENDER,Стать
+UI_ILLNESSES,Хвороби
+UI_INJURIES,Поранення
+UI_HYDRATION,Пиття
+UI_ENERGY,Енергія
+UI_FULLNESS,Їжа
+UI_HISTORY,Історія
+UI_SKILLS,Навички
+UI_STATISTICS,Статистика
+UI_PRIMARY_MATERIAL,Основний матеріал
+UI_SECONDARY_MATERIAL,Неосновний матеріал
+UI_EXPORT_SHIP_LAYOUT,Експортувати макет корабля
+UI_CURRENT_TRACK,Поточний трек:
+UI_NEEDS,Потреби
+UI_UNIVERSE_CREATION,Створення всесвіту
+UI_FACTIONS_AVAILABLE,Доступні фракції
+UI_FACTIONS_SELECTED,Обрані Фракції
+UI_CONSTRUCTION,Будівництво
+UI_RESEARCH_MENU,Наука
+UI_GAME_INFO,Ігрова інформація
+UI_FACTIONS,Фракції
+UI_FACTION,Фракція
+UI_PAIN,Біль
+UI_CONSCIOUSNESS,Притомність
+UI_RESPIRATION,Дихання
+UI_PRIORITY,Пріоритет
+UI_ROSTER,Список
+UI_ROOMS,Кімнати
+UI_EQUIPMENT,Спорядження
+UI_CHOOSE_EMBLEM,Обрати емблему
+UI_PICK_A_COLOUR,Обрати колір
+UI_RECORDS,Записи
+UI_TRADE,Торгівля
+UI_BRIBE,Підкуп
+UI_NEGOTIATE,Переговори
+UI_COMMUNICATE,Увімкнути комунікації
+UI_PREPARING_TO_LEAVE,Готуємось вирушати ... !
+UI_ATTEMPT_TO_BRIBE,Спроба підкупу
+UI_JOBS_PRIORITY_EXPLANATION,Чим нижча оцінка — тим вище пріоритет
+UI_ANYTHING,Будь-що
+UI_WORK,Працювати
+UI_SLEEP,Спати
+UI_ENTERTAINMENT,Розваги
+UI_CONTAINED_MATERIALS,Матеріали всередині:
+UI_CROP,Насіння
+UI_SEED_AMOUNT,Доступне насіння
+UI_INGREDIENT,Інгредіәнти
+UI_RECIPE,Recipe
+UI_INGREDIENTS_ADDED,Додані інгредієнти:
+UI_GAME_STATS,Ігрова Статистика
+UI_BUILDING,Будуємо
+UI_SHIP_SYSTEMS,Корабельні системи
