@@ -1,38 +1,38 @@
 {
-	"SpaceSuit": {
-		"title": "Space suit",
-		"description": "Part of an EVA suit used to perform orbital extra-vehicular activity, a helmet is also needed for full functionality. These suits have built in rebreathers which clean any waste gasses. Extremely uncomfortable to sleep in."
-	},
-	"JumpSuit": {
-		"title": "Overalls",
-		"description": "Clothing that covers the top and bottom half of the body."
-	},
-	"FlakVest": {
-		"title": "Ballistic vest",
-		"description": "Designed to reduce the impact of bullets."
-	},
-	"Jacket": {
-		"title": "Jacket",
-		"description": "A regular jacket."
-	},
-	"DusterJacket": {
-		"title": "Duster jacket",
-		"description": "A jacket that covers the whole body."
-	},
-	"Jeans": {
-		"title": "Jeans",
-		"description": "Comfortable clothing that covers the lower half of the body."
-	},
-	"Shirt": {
-		"title": "Shirt",
-		"description": "Comfortable clothing that cover the upper half of the body."
-	},
-	"Shoes": {
-		"title": "Shoes",
-		"description": "A pair of comfortable trainers."
-	},
-	"Boots": {
-		"title": "Boots",
-		"description": "A pair of comfortable boots."
-	}
+  "SpaceSuit": {
+    "title": "Космічний скафандр",
+    "description": "Частина EVA скафандру, створеного для діяльності у космосі, шолом також потрібен для забезпечення повної функціональності. Такі скафандри мають вбудовані респіратори, що фільтрують будь-які відпрацьовані гази. Надзвичайно незручно спати в скафандрі."
+  },
+  "JumpSuit": {
+    "title": "Комбінезон",
+    "description": "Одяг, що покриває верхню та нижню частину тіла."
+  },
+  "FlakVest": {
+    "title": "Бронежилет",
+    "description": "Створений, аби захищати від куль."
+  },
+  "Jacket": {
+    "title": "Куртка",
+    "description": "Звичайна куртка."
+  },
+  "DusterJacket": {
+    "title": "Плащ",
+    "description": "Плащ, що покриває все тіло."
+  },
+  "Jeans": {
+    "title": "Джинси",
+    "description": "Комфотрний одяг, що покриває нижню половину тіла."
+  },
+  "Shirt": {
+    "title": "Сорочка",
+    "description": "Комфортний одяг, що покриває верхню половину тіла."
+  },
+  "Shoes": {
+    "title": "Кросівки",
+    "description": "Пара комфортних кросівок."
+  },
+  "Boots": {
+    "title": "Чоботи",
+    "description": "Пара комфортних чобіт."
+  }
 }

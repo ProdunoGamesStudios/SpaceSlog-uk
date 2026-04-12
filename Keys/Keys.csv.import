@@ -2,7 +2,7 @@
 
 importer="csv_translation"
 type="Translation"
-uid="uid://q2opwipv04da"
+uid="uid://cei7m35l3g7qe"
 
 [deps]
 
@@ -15,3 +15,5 @@ dest_files=["res://Data/Core/Language/uk/Keys/Keys.uk.translation"]
 
 compress=true
 delimiter=0
+unescape_keys=false
+unescape_translations=true

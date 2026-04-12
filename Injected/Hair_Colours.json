@@ -1,74 +1,74 @@
 {
-	"black": {
-		"title": "Black"
-	},
-	"off_black": {
-		"title": "Off black"
-	},
-	"dark_brown": {
-		"title": "Dark brown"
-	},
-	"med_dark_brown": {
-		"title": "Medium dark brown"
-	},
-	"chestnut_brown": {
-		"title": "Chestnut brown"
-	},
-	"light_chestnut_brown": {
-		"title": "Light chestnut brown"
-	},
-	"dark_golden_brown": {
-		"title": "Dark golden brown"
-	},
-	"light_golden_brown": {
-		"title": "Light golden brown"
-	},
-	"honey_blonde": {
-		"title": "Honey blonde"
-	},
-	"bleach_blonde": {
-		"title": "Bleach blonde"
-	},
-	"ash_blonde": {
-		"title": "Ash blonde"
-	},
-	"ash_brown": {
-		"title": "Ash brown"
-	},
-	"light_blonde": {
-		"title": "Light blonde"
-	},
-	"golden_blonde": {
-		"title": "Golden blonde"
-	},
-	"strawberry_blonde": {
-		"title": "Strawberry-blonde"
-	},
-	"light_auburn": {
-		"title": "Light auburn"
-	},
-	"dark_auburn": {
-		"title": "Dark auburn"
-	},
-	"dark_grey": {
-		"title": "Dark grey"
-	},
-	"medium_grey": {
-		"title": "Medium grey"
-	},
-	"light_grey": {
-		"title": "Light grey"
-	},
-	"white_blonde": {
-		"title": "White blonde"
-	},
-	"platinum_blonde": {
-		"title": "Platinum blonde"
-	},
-	"red": {
-		"title": "Red"
-	},
-	"cotta": {
-		"title": "Cotta"
-	}
+  "black": {
+    "title": "Чорне"
+  },
+  "off_black": {
+    "title": "Чорно-коричневе"
+  },
+  "dark_brown": {
+    "title": "Темно-коричневе"
+  },
+  "med_dark_brown": {
+    "title": "Коричневе"
+  },
+  "chestnut_brown": {
+    "title": "Каштанове"
+  },
+  "light_chestnut_brown": {
+    "title": "Світло-каштанове"
+  },
+  "dark_golden_brown": {
+    "title": "Темно-золоте коричневе"
+  },
+  "light_golden_brown": {
+    "title": "Світлокоричневе"
+  },
+  "honey_blonde": {
+    "title": "Медовий блонд"
+  },
+  "bleach_blonde": {
+    "title": "Висвітлений блонд"
+  },
+  "ash_blonde": {
+    "title": "Попелястий блонд"
+  },
+  "ash_brown": {
+    "title": "Попелясто-коричневе"
+  },
+  "light_blonde": {
+    "title": "Світлий блонд"
+  },
+  "golden_blonde": {
+    "title": "Золотий блонд"
+  },
+  "strawberry_blonde": {
+    "title": "Полуничний блонд"
+  },
+  "light_auburn": {
+    "title": "Світло-руде"
+  },
+  "dark_auburn": {
+    "title": "Темно-руде"
+  },
+  "dark_grey": {
+    "title": "Темно-сіре"
+  },
+  "medium_grey": {
+    "title": "Сіре"
+  },
+  "light_grey": {
+    "title": "Світло-сіре"
+  },
+  "white_blonde": {
+    "title": "Класичний блонд"
+  },
+  "platinum_blonde": {
+    "title": "Платиновий блонд"
+  },
+  "red": {
+    "title": "Руде"
+  },
+  "cotta": {
+    "title": "Червоно-руде"
+  }
 }

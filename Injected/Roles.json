@@ -1,8 +1,8 @@
 {
-    "Captain": {
-        "title": "Captain"
-    },
-    "Quartermaster": {
-        "title": "Quartermaster"
-    }
+  "Captain": {
+    "title": "Капітан"
+  },
+  "Quartermaster": {
+    "title": "Інтендант"
+  }
 }

@@ -1,6 +1,6 @@
 {
-    "ArcadeMachine": {
-        "title": "Arcade machine",
-        "description": "Can reduce stress."
-    }
+  "ArcadeMachine": {
+    "title": "Ігровий автомат",
+    "description": "Може знижувати стрес."
+  }
 }

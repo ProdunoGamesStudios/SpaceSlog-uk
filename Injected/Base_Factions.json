@@ -1,15 +1,15 @@
 {
-	"Player": {
-		"title": "Player faction",
-		"description": "This is the player's faction."
-	},
-	"Reavers": {
-		"description": "A once civilised species, driven to insanity and lost on the fringes of space."
-	},
-	"Pirates": {
-		"description": "Let down and forgotten by society, they must now pillage and plunder whatever they can in order to survive."
-	},
-	"SplinterFaction": {
-		"description": "A breakaway faction that has found itself dispersed across the universe."
-	}
+  "Player": {
+    "title": "Фракція гравця",
+    "description": "Це фракція гравця."
+  },
+  "Reavers": {
+    "description": "Колись цивілізовані види, доведені доведені до безумства та загублені в закутках космосу."
+  },
+  "Pirates": {
+    "description": "Зраджені та забуті суспільством, вони тепер вимушені грабувати та красти все до чого можуть дістати, аби вижити."
+  },
+  "SplinterFaction": {
+    "description": "Розколота фракція, розкидана по всесвіту."
+  }
 }

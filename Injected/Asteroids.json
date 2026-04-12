@@ -1,26 +1,26 @@
 {
-    "SmallRockAsteroid": {
-        "title": "Asteroid",
-        "description": "May contain precious resources."
-    },
-    "LargeRockAsteroid": {
-        "title": "Asteroid",
-        "description": "May contain precious resources."
-    },
-    "SmallIceAsteroid": {
-        "title": "Asteroid",
-        "description": "May contain precious resources."
-    },
-    "LargeIceAsteroid": {
-        "title": "Asteroid",
-        "description": "May contain precious resources."
-    },
-    "SmallSiliconAsteroid": {
-        "title": "Asteroid",
-        "description": "May contain precious resources."
-    },
-    "LargeSiliconAsteroid": {
-        "title": "Asteroid",
-        "description": "May contain precious resources."
-    }
+  "SmallRockAsteroid": {
+    "title": "Астероїд",
+    "description": "Може містити цінні ресурси."
+  },
+  "LargeRockAsteroid": {
+    "title": "Астероїд",
+    "description": "Може містити цінні ресурси."
+  },
+  "SmallIceAsteroid": {
+    "title": "Астероїд",
+    "description": "Може містити цінні ресурси."
+  },
+  "LargeIceAsteroid": {
+    "title": "Астероїд",
+    "description": "Може містити цінні ресурси."
+  },
+  "SmallSiliconAsteroid": {
+    "title": "Астероїд",
+    "description": "Може містити цінні ресурси."
+  },
+  "LargeSiliconAsteroid": {
+    "title": "Астероїд",
+    "description": "Може містити цінні ресурси."
+  }
 }

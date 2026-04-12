@@ -1,62 +1,62 @@
 {
-    "SleepingSpot": {
-        "title": "Sleeping spot",
-        "description": "An uncomfortable rescue or sleeping spot for one humanoid."
-    },
-    "SleepingBag": {
-        "title": "Sleeping bag",
-        "description": "An uncomfortable place for one humanoid to sleep."
-    },
-    "SingleBed": {
-        "title": "Single bed",
-        "description": "A comfortable place for one humanoid to sleep."
-    },
-    "DoubleBed": {
-        "title": "Double bed",
-        "description": "A comfortable place for two humanoids to sleep."
-    },
-    "HospitalBed": {
-        "title": "Single Hospital bed",
-        "description": "A comfortable place for one humanoid to rest and recover."
-    },
-    "CryoPod": {
-        "title": "Cryo pod",
-        "description": "Freezes creatures in time, preventing ageing for as long as this item has power."
-    },
-    "SmallTable": {
-        "title": "Small table",
-        "description": "A small table that is a relatively comfortable place for a humanoid to eat. At least it's better than eating off the floor."
-    },
-    "MediumTable": {
-        "title": "Medium table",
-        "description": "A table that is a relatively comfortable place for a humanoid to eat. At least it's better than eating off the floor."
-    },
-    "LargeTable": {
-        "title": "Large table",
-        "description": "A large table that is a relatively comfortable place for a humanoid to eat. At least it's better than eating off the floor."
-    },
-    "Chair": {
-        "title": "Chair",
-        "description": "A relatively comfortable place for a humanoid to sit."
-    },
-    "Stool": {
-        "title": "Stool",
-        "description": "Marginally better than sitting on the floor."
-    },
-    "CaptainsChair": {
-        "title": "Captains chair",
-        "description": "A chair suitable for a Captain."
-    },
-    "CommandChair": {
-        "title": "Command chair",
-        "description": "A chair mostly used on the bridge."
-    },
-    "FloorLight": {
-        "title": "Floor light",
-        "description": "A light that fits into the floor."
-    },
-    "AlarmFloorLight": {
-        "title": "Alarm floor light",
-        "description": "A light that fits into the floor."
-    }
+  "SleepingSpot": {
+    "title": "Місце для сну",
+    "description": "Некомфортне місце місце для сну або порятунку гуманоїдів."
+  },
+  "SleepingBag": {
+    "title": "Спальник",
+    "description": "Некомфортне місце для сну гуманоїдів."
+  },
+  "SingleBed": {
+    "title": "Односпальне ліжко",
+    "description": "Комфортне місце для сну гуманоїдів."
+  },
+  "DoubleBed": {
+    "title": "Двоспальне ліжко",
+    "description": "Комфортне місце для сну гуманоїдів."
+  },
+  "HospitalBed": {
+    "title": "Односпальне лікарняне ліжко",
+    "description": "Комфортне місце для відпочинку та відновлення гуманоїдів."
+  },
+  "CryoPod": {
+    "title": "Кріогенна капсула",
+    "description": "Заморожує створіння у часі, запобігаючи старінню, доки кріогенна капсула забезпечена електрикою."
+  },
+  "SmallTable": {
+    "title": "Малий стіл",
+    "description": "Малий стіл це досить комфортне місце для харчування гуманоїдів. Прийнамні це краще ніж їсти на підлозі."
+  },
+  "MediumTable": {
+    "title": "Середній стіл",
+    "description": "Середній стіл це досить комфортне місце для харчування гуманоїдів. Прийнамні це краще ніж їсти на підлозі."
+  },
+  "LargeTable": {
+    "title": "Великий стіл",
+    "description": "Великий стіл це досить комфортне місце для харчування гуманоїдів. Прийнамні це краще ніж їсти на підлозі."
+  },
+  "Chair": {
+    "title": "стілець",
+    "description": "Досить комфортне місце для сидіння гуманоїдів."
+  },
+  "Stool": {
+    "title": "Табурет",
+    "description": "Не сильно кращий ніж сидіння на підлозі."
+  },
+  "CaptainsChair": {
+    "title": "Капітанське крісло",
+    "description": "Крісло що достойне капітана."
+  },
+  "CommandChair": {
+    "title": "Командирське крісло",
+    "description": "Крісло, що переважно використовується на містку."
+  },
+  "FloorLight": {
+    "title": "Підложна лампа",
+    "description": "Лампа що підходить для монтажу в підлогу."
+  },
+  "AlarmFloorLight": {
+    "title": "Підложна сигнальна лампа",
+    "description": "Лампа що підходить для монтажу в підлогу."
+  }
 }

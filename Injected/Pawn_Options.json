@@ -1,166 +1,166 @@
 {
-    "Build": {
-        "title": "Build",
-        "description": "Building"
-    },
-    "Deconstruct": {
-        "title": "Deconstruct",
-        "description": "Deconstructing building"
-    },
-    "Mine": {
-        "title": "Mine",
-        "description": "Mining"
-    },
-    "Refuel": {
-        "title": "Refuel",
-        "description": "Refuelling"
-    },
-    "Eat": {
-        "title": "Eat",
-        "description": "Eating"
-    },
-    "Drink": {
-        "title": "Drink",
-        "description": "Drinking"
-    },
-    "Sleep": {
-        "title": "Sleep",
-        "description": "Sleeping"
-    },
-    "Roam": {
-        "title": "Roam",
-        "description": "Roaming"
-    },
-    "BeatFire": {
-        "title": "Put out fire"
-    },
-    "Clean": {
-        "title": "Clean",
-        "description": "Cleaning"
-    },
-    "SelfTend": {
-        "title": "Self tend"
-    },
-    "RestHeal": {
-        "title": "Rest heal",
-        "description": "Resting in bed until healed."
-    },
-    "Rescue": {
-        "title": "Rescue",
-        "description": "Rescuing collapsed pawn."
-    },
-    "Repair": {
-        "title": "Repair",
-        "description": "Repairing"
-    },
-    "Haul": {
-        "title": "Haul",
-        "description": "Hauling"
-    },
-    "HaulObstruction": {
-        "title": "Haul obstruction",
-        "description": "Hauling obstruction"
-    },
-    "HaulToPrefab": {
-        "title": "Haul to prefab",
-        "description": "Hauling to prefab"
-    },
-    "HaulToRecipe": {
-        "title": "Haul to recipe",
-        "description": "Hauling to recipe"
-    },
-    "Research": {
-        "title": "Research"
-    },
-    "FindAtmosphere": {
-        "title": "Find safe atmosphere"
-    },
-    "FindSafeTemperature": {
-        "title": "Find safe temperature"
-    },
-    "DoBadMood": {
-        "title": "Do bad mood"
-    },
-    "DoGoodMood": {
-        "title": "Do good mood"
-    },
-    "DoSocial": {
-        "title": "Do social"
-    },
-    "MoveDead": {
-        "title": "Move dead pawn",
-        "description": "Moving the dead"
-    },
-    "EquipSpacesuit": {
-        "title": "Equip spacesuit",
-        "description": "Equipping a spacesuit"
-    },
-    "ForceMove": {
-        "title": "Force move",
-        "description": "Moving"
-    },
-    "Equip": {
-        "title": "Equip",
-        "description": "Equipping"
-    },
-    "UnEquip": {
-        "title": "Drop",
-        "description": "Dropping"
-    },
-    "Strip": {
-        "title": "Strip",
-        "description": "Stripping"
-    },
-    "DestroyAsset": {
-        "title": "Destroy asset",
-        "description": "Destroying item."
-    },
-    "UseEntertainment": {
-        "title": "Use entertainment",
-        "description": "Using entertainment"
-    },
-    "SitAtChair": {
-        "title": "Sit at chair",
-        "description": "Sitting at chair"
-    },
-    "HealPawn": {
-        "title": "Heal pawn",
-        "description": "Healing pawn back to health"
-    },
-    "FeedPawn": {
-        "title": "Feed pawn",
-        "description": "Feeding pawn"
-    },
-    "HydratePawn": {
-        "title": "Hydrate pawn",
-        "description": "Hydrating pawn"
-    },
-    "Slaughter": {
-        "title": "Slaughter",
-        "description": "Slaughtering"
-    },
-    "Butcher": {
-        "title": "Butcher",
-        "description": "Butchering"
-    },
-    "FollowAndMelee": {
-        "title": "Follow and melee",
-        "description": "Melee"
-    },
-    "Flee": {
-        "title": "Flee",
-        "description": "Flee to a safe area"
-    },
-    "SowPlant": {
-        "title": "Sow plant",
-        "description": "Sow a plant"
-    },
-    "HarvestPlant": {
-        "title": "Harvest plant",
-        "description": "Harvesting a plant"
-    },
-    "HarvestBrew": {
-        "title": "Harvest brew",
-        "description": "Harvesting a brew"
-    }
+  "Build": {
+    "title": "Будувати",
+    "description": "Будування"
+  },
+  "Deconstruct": {
+    "title": "Розібрати",
+    "description": "Розібрати будівлю"
+  },
+  "Mine": {
+    "title": "Копати",
+    "description": "Копання"
+  },
+  "Refuel": {
+    "title": "Заправити",
+    "description": "Дозаправка"
+  },
+  "Eat": {
+    "title": "Їсти",
+    "description": "Поїдання"
+  },
+  "Drink": {
+    "title": "Пити",
+    "description": "Пиття"
+  },
+  "Sleep": {
+    "title": "Спати",
+    "description": "Спання"
+  },
+  "Roam": {
+    "title": "Бродити",
+    "description": "Блукати"
+  },
+  "BeatFire": {
+    "title": "Потушити"
+  },
+  "Clean": {
+    "title": "Очистити",
+    "description": "Очистка"
+  },
+  "SelfTend": {
+    "title": "Полікувати себе"
+  },
+  "RestHeal": {
+    "title": "Відпочивати до відновлення",
+    "description": "Відпочинок у ліжку до повного зцілення."
+  },
+  "Rescue": {
+    "title": "Рятувати",
+    "description": "Порятунок впалого пішака."
+  },
+  "Repair": {
+    "title": "Ремонтувати",
+    "description": "Ремонт"
+  },
+  "Haul": {
+    "title": "Перенести",
+    "description": "Переноска"
+  },
+  "HaulObstruction": {
+    "title": "Haul obstruction",
+    "description": "Hauling obstruction"
+  },
+  "HaulToPrefab": {
+    "title": "Haul to prefab",
+    "description": "Hauling to prefab"
+  },
+  "HaulToRecipe": {
+    "title": "Haul to recipe",
+    "description": "Hauling to recipe"
+  },
+  "Research": {
+    "title": "Досліджувати"
+  },
+  "FindAtmosphere": {
+    "title": "Знайти безпечну атмосферу"
+  },
+  "FindSafeTemperature": {
+    "title": "Знайти безпечну температуру"
+  },
+  "DoBadMood": {
+    "title": "Do bad mood"
+  },
+  "DoGoodMood": {
+    "title": "Do good mood"
+  },
+  "DoSocial": {
+    "title": "Do social"
+  },
+  "MoveDead": {
+    "title": "Переносити мертвого пішака",
+    "description": "Переноска мертвих"
+  },
+  "EquipSpacesuit": {
+    "title": "Equip spacesuit",
+    "description": "Equipping a spacesuit"
+  },
+  "ForceMove": {
+    "title": "Force move",
+    "description": "Moving"
+  },
+  "Equip": {
+    "title": "Equip",
+    "description": "Equipping"
+  },
+  "UnEquip": {
+    "title": "Drop",
+    "description": "Dropping"
+  },
+  "Strip": {
+    "title": "Strip",
+    "description": "Stripping"
+  },
+  "DestroyAsset": {
+    "title": "Destroy asset",
+    "description": "Destroying item."
+  },
+  "UseEntertainment": {
+    "title": "Use entertainment",
+    "description": "Using entertainment"
+  },
+  "SitAtChair": {
+    "title": "Sit at chair",
+    "description": "Sitting at chair"
+  },
+  "HealPawn": {
+    "title": "Heal pawn",
+    "description": "Healing pawn back to health"
+  },
+  "FeedPawn": {
+    "title": "Feed pawn",
+    "description": "Feeding pawn"
+  },
+  "HydratePawn": {
+    "title": "Hydrate pawn",
+    "description": "Hydrating pawn"
+  },
+  "Slaughter": {
+    "title": "Slaughter",
+    "description": "Slaughtering"
+  },
+  "Butcher": {
+    "title": "Butcher",
+    "description": "Butchering"
+  },
+  "FollowAndMelee": {
+    "title": "Переслідувати та бити врукопашну",
+    "description": "Рукопашна"
+  },
+  "Flee": {
+    "title": "Втікати",
+    "description": "Втеча до безпечного місця"
+  },
+  "SowPlant": {
+    "title": "Сіяти рослини",
+    "description": "Посів рослин"
+  },
+  "HarvestPlant": {
+    "title": "Пожинати врожай",
+    "description": "Збір врожаю"
+  },
+  "HarvestBrew": {
+    "title": "Зібрати варево",
+    "description": "Збір звареного продукту"
+  }
 }

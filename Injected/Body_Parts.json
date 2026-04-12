@@ -1,80 +1,80 @@
 {
-	"torso": {
-		"title": "Torso"
-	},
-	"head": {
-		"title": "Head"
-	},
-	"jaw": {
-		"title": "Jaw"
-		},
-	"leg": {
-		"title": "Leg"
-	},
-	"foot": {
-		"title": "Foot"
-	},
-	"arm": {
-		"title": "Arm"
-	},
-	"hand": {
-		"title": "Hand"
-	},
-	"lung": {
-		"title": "Lung"
-	},
-	"ribs": {
-		"title": "Ribs"
-	},
-	"heart": {
-		"title": "Heart"
-	},
-	"liver": {
-		"title": "Liver"
-	},
-	"teeth": {
-		"title": "Teeth"
-	},
-	"claw": {
-		"title": "Claw"
-	},
-	"kidney": {
-		"title": "Kidney"
-	},
-	"groin": {
-		"title": "groin"
-	},
-	"finger": {
-		"title": "Finger"
-	},
-	"thumb": {
-		"title": "Thumb"
-	},
-	"toe": {
-		"title": "Toe"
-	},
-	"neck": {
-		"title": "Neck"
-	},
-	"stomach": {
-		"title": "Stomach"
-	},
-	"intestines": {
-		"title": "Intestines"
-	},
-	"ear": {
-		"title": "Ear"
-	},
-	"nose": {
-		"title": "Nose"
-	},
-	"skull": {
-		"title": "Skull"
-	},
-	"paw": {
-		"title": "Paw"
-	},
-	"tail": {
-		"title": "Tail"
-	}
+  "torso": {
+    "title": "Торс"
+  },
+  "head": {
+    "title": "Голова"
+  },
+  "jaw": {
+    "title": "Щелепа"
+  },
+  "leg": {
+    "title": "Нога"
+  },
+  "foot": {
+    "title": "Стопа"
+  },
+  "arm": {
+    "title": "Рука"
+  },
+  "hand": {
+    "title": "Кисть"
+  },
+  "lung": {
+    "title": "Легеня"
+  },
+  "ribs": {
+    "title": "Ребра"
+  },
+  "heart": {
+    "title": "Серце"
+  },
+  "liver": {
+    "title": "Печінка"
+  },
+  "teeth": {
+    "title": "Зуб"
+  },
+  "claw": {
+    "title": "Кіготь"
+  },
+  "kidney": {
+    "title": "Нирка"
+  },
+  "groin": {
+    "title": "Пах"
+  },
+  "finger": {
+    "title": "Палець"
+  },
+  "thumb": {
+    "title": "Великий палець"
+  },
+  "toe": {
+    "title": "Палець ноги"
+  },
+  "neck": {
+    "title": "Шия"
+  },
+  "stomach": {
+    "title": "Шлунок"
+  },
+  "intestines": {
+    "title": "Кишечник"
+  },
+  "ear": {
+    "title": "Вухо"
+  },
+  "nose": {
+    "title": "Ніс"
+  },
+  "skull": {
+    "title": "Череп"
+  },
+  "paw": {
+    "title": "Лапа"
+  },
+  "tail": {
+    "title": "Хвіст"
+  }
 }

@@ -1,18 +1,18 @@
 {
-    "Dirt": {
-        "title": "Dirt",
-        "description": "General dirt."
-    },
-    "Slime": {
-        "title": "Slime",
-        "description": "Gross and slimy."
-    },
-    "Puke": {
-        "title": "Puke",
-        "description": "Chunky bodily fluids."
-    },
-    "Blood": {
-        "title": "Blood",
-        "description": "Bodily fluids."
-    }
+  "Dirt": {
+    "title": "Бруд",
+    "description": "Звичайний бруд."
+  },
+  "Slime": {
+    "title": "Слиз",
+    "description": "Огидний та слизький."
+  },
+  "Puke": {
+    "title": "Блювота",
+    "description": "шматки виділеннь організму."
+  },
+  "Blood": {
+    "title": "Кров",
+    "description": "Тілесна рідина."
+  }
 }

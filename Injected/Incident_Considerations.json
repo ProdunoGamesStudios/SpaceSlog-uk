@@ -1,18 +1,18 @@
 {
-    "IsShipMoving": {
-        "title": "Is ship moving",
-        "description": "Is the player ship moving?"
-    },
-    "IsShipStationary": {
-        "title": "Is ship stationary",
-        "description": "Is the player ship stationary?"
-    },
-    "AboveWealthThreshold": {
-        "title": "Is above wealth amount",
-        "description": "Is the player above this wealth amount?"
-    },
-    "IsTransponderActive": {
-        "title": "Is transponder active",
-        "description": "Checking if the ship transponder is active."
-    }
+  "IsShipMoving": {
+    "title": "Чи рухається корабель",
+    "description": "Чи рухається корабель гравця?"
+  },
+  "IsShipStationary": {
+    "title": "Чи корабель стоїть на місці",
+    "description": "Чи стоїть на місці корабель гравця?"
+  },
+  "AboveWealthThreshold": {
+    "title": "Чи корабель не надто дорогий",
+    "description": "Чи корабель гравця не надто дорогий ?"
+  },
+  "IsTransponderActive": {
+    "title": "Чи активний транспондер",
+    "description": "Перевіряє чи активний транспондер корабля"
+  }
 }

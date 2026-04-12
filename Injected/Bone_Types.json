@@ -1,14 +1,14 @@
 {
-	"Human": {
-		"title": "Bone",
-        "description": "Made of connective tissue and specialised bone cells."
-	},
-    "Worm": {
-		"title": "Bone",
-		"description": "Thin and brittle."
-	},
-    "Rodent": {
-		"title": "Bone",
-		"description": "Thin and brittle."
-	}
+  "Human": {
+    "title": "Кістка",
+    "description": "Складається зі сполучних та кісткових тканин."
+  },
+  "Worm": {
+    "title": "Кістка",
+    "description": "Тонка та крихка."
+  },
+  "Rodent": {
+    "title": "Кістка",
+    "description": "Тонка та крихка."
+  }
 }

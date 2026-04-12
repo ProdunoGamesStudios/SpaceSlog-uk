@@ -1,14 +1,14 @@
 {
-	"Water": {
-		"title": "Water",
-        "description": "Melt ice down into water."
-	},
-    "Wine": {
-		"title": "Wine",
-        "description": "Ferment water and berries together to create wine."
-	},
-    "VegetableBroth": {
-		"title": "Vegetable broth",
-        "description": "Make a tasty herb and vegetable broth."
-	}
+  "Water": {
+    "title": "Вода",
+    "description": "Розтопити лід у воду."
+  },
+  "Wine": {
+    "title": "Вино",
+    "description": "Перебродити воду та ягоди аби створити вино."
+  },
+  "VegetableBroth": {
+    "title": "Овочевий бульйон",
+    "description": "Зробити смачний бульйон з трав та овочів."
+  }
 }

@@ -67,6 +67,5 @@
   "trying_to_set_already_mobile_pawn_mobile": "Trying to set pawn ({name}) mobile that is already mobile",
   "trying_to_set_already_dead_pawn_dead": "Trying to set pawn ({name}) dead that is already dead",
   "trying_to_set_already_collapsed": "Trying to set an already collapsed pawn ({name}) as collapsed.",
-  "trying_to_set_already_incapacitated_pawn_incapacitated": "Trying to set pawn ({name}) incapacitated that is already incapacitated",
   "no_key_for_language": "There is no text key for {language}: {text_needed}"
 }

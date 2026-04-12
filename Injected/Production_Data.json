@@ -1,30 +1,30 @@
 {
-	"Transponder": {
-		"title": "Transponder",
-		"description": "It is mandatory for all ships to have a powered and functioning transponder. The construction of anything other than hull is forbidden until one has been installed."
-	},
-	"NavConsole": {
-		"title": "Navigation console",
-		"description": "Required to navigate a ship throughout the universe."
-	},
-	"CommConsole": {
-		"title": "Comms console",
-		"description": "Used for communication with other ships."
-	},
-	"SmallThruster": {
-		"title": "Small thruster",
-		"description": "Provides a small amount of forward thrust when activated."
-	},
-	"MediumThruster": {
-		"title": "Medium thruster",
-		"description": "Provides a moderate amount of forward thrust when activated."
-	},
-	"LargeThruster": {
-		"title": "Large thruster",
-		"description": "Provides a large amount of forward thrust when activated."
-	},
-	"Aeroponics": {
-		"title": "Aeroponics",
-		"description": " A place to grow plants and vegetables."
-	}
+  "Transponder": {
+    "title": "Транспондер",
+    "description": "Усі судна обов'язково повинні мати працюючий транспондер. Будівництво будь-чого, крім корпусу, заборонено до встановлення транспондеру."
+  },
+  "NavConsole": {
+    "title": "Навігаційна консоль",
+    "description": "Потрібна для навігації судна по всесвіту."
+  },
+  "CommConsole": {
+    "title": "Комунікаційна консоль",
+    "description": "Потрібна для комунікації з іншими кораблями."
+  },
+  "SmallThruster": {
+    "title": "Малий двигун",
+    "description": "Надає невелику кількість прискорення при активації."
+  },
+  "MediumThruster": {
+    "title": "Середній двигун",
+    "description": "Надає середню кількість прискорення при активації."
+  },
+  "LargeThruster": {
+    "title": "Великий двигун",
+    "description": "Надає велику кількість прискорення при активації."
+  },
+  "Aeroponics": {
+    "title": "Аеропоніка",
+    "description": " Місце для вирощування рослин та овочів."
+  }
 }

@@ -1,22 +1,22 @@
 {
-    "PassingShip": {
-        "title": "Passing ship",
-        "description": "Our scanners have detected a ship nearby. It should be within communication range shortly."
-    },
-    "Asteroids": {
-        "title": "Asteroid field",
-        "description": "We are passing over an asteroid field. We can attempt to mine some but must be careful of parasites and infections."
-    },
-    "Debris": {
-        "title": "Debris",
-        "description": "We are detecting some kind of debris nearby, we could scavenge the wreckage for supplies or see if there are any survivors. We must be wary of pirates in the area."
-    },
-    "CryoChamber": {
-        "title": "Cryo chamber",
-        "description": "There appears to be a Cryo Chamber floating close by. We could see if anyone's inside."
-    },
-    "HostileCreatureAssault": {
-        "title": "Assault",
-        "description": "Hostile creatures have been spotted within range of the ship."
-    }
+  "PassingShip": {
+    "title": "Корабель пролітає повз",
+    "description": "Наші сканери засікли корабель неподалік. Він увійде у зону досяжності коммунікацій найближчим часом."
+  },
+  "Asteroids": {
+    "title": "Поле астероїдів",
+    "description": "Ми пролітаємо повз поле астероїдів. Ми можем спробувати почати розкопки на них, але треба бути обережними з паразитами та інфекціями."
+  },
+  "Debris": {
+    "title": "Уламки",
+    "description": "Ми помітили якісь уламки поблизу, ми можемо пошукати припаси в уламках, або пошукати вцілілих. Треба остерігатись піратів."
+  },
+  "CryoChamber": {
+    "title": "Кріокамера",
+    "description": "Поруч пролітає кріокамера. Ми можемо перевірити, чи є хтось всередині."
+  },
+  "HostileCreatureAssault": {
+    "title": "Атака",
+    "description": "Ворожі створіння були помічені в зоні досяжності нашого корабля."
+  }
 }

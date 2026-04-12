@@ -1,58 +1,58 @@
 {
-	"FireControl": {
-		"title": "Fire control",
-		"description": "Will attempt to fight any fires."
-	},
-	"Patient": {
-		"title": "Patient",
-		"description": "Will use beds when injured or sick to heal themselves back to full health."
-	},
-	"Medical": {
-		"title": "Medical",
-		"description": "Rescues, looks after and heals the sick or wounded."
-	},
-	"Combat": {
-		"title": "Combat",
-		"description": "Will engage in combat."
-	},
-	"Cook": {
-		"title": "Cook",
-		"description": "Performs all cooking and brewing activities."
-	},
-	"Botany": {
-		"title": "Botany",
-		"description": "Tends to any plants including planting seeds and harvesting crops."
-	},
-	"Engineering": {
-		"title": "Engineering",
-		"description": "Performs any maintenance and constructs or deconstructs anything required."
-	},
-	"Janitor": {
-		"title": "Janitor",
-		"description": "Cleans flooring and performs many basic tasks."
-	},
-	"Security": {
-		"title": "Security",
-		"description": "Looks after and manages prisoners."
-	},
-	"Science": {
-		"title": "Science",
-		"description": "Performs research, development and other scientific activities."
-	},
-	"Veterinarian": {
-		"title": "Veterinarian",
-		"description": "Trains and takes care of animals."
-	},
-	"Tailor": {
-		"title": "Tailor",
-		"description": "Creates apparel."
-	},
-	"Machining": {
-		"title": "Machining",
-		"description": "Creates various equipment and ship parts."
-	},
-	"Labourer": {
-		"title": "Labourer",
-		"description": "Hauls the dead, equipment and resources where required. Refills designated machinery."
-	}
+  "FireControl": {
+    "title": "Пожежник",
+    "description": "Намагатиметься тушити будь-які пожежі."
+  },
+  "Patient": {
+    "title": "Пацієнт",
+    "description": "Буде відпочивати на ліжку, коли поранений або хворий до повної поправки."
+  },
+  "Medical": {
+    "title": "Медик",
+    "description": "Рятує, наглядає та лікує хворих та поранених."
+  },
+  "Combat": {
+    "title": "Боєць",
+    "description": "Буде вступати в бій."
+  },
+  "Cook": {
+    "title": "Кухар",
+    "description": "Виконуватиме всі кухарські та варильні завдання."
+  },
+  "Botany": {
+    "title": "Ботанік",
+    "description": "Доглядає рослини, саджає насіння та збирає врожай."
+  },
+  "Engineering": {
+    "title": "Інженер",
+    "description": "Виконує обслуговування, будує та розбирає конструкції."
+  },
+  "Janitor": {
+    "title": "Прибиральник",
+    "description": "Прибирає підогу та виконує багато базових завдань."
+  },
+  "Security": {
+    "title": "Наглядач",
+    "description": "Наглядає та обслуговує ув'язнених."
+  },
+  "Science": {
+    "title": "Вчений",
+    "description": "Проводить дослідження, розробляє нові технології та займається іншою науковою діяльністю."
+  },
+  "Veterinarian": {
+    "title": "Ветеринар",
+    "description": "Тренує та доглядає за тваринами."
+  },
+  "Tailor": {
+    "title": "Кравець",
+    "description": "Шиє одяг."
+  },
+  "Machining": {
+    "title": "Механічна обробка",
+    "description": "Створює різне спорядження та частини корабля."
+  },
+  "Labourer": {
+    "title": "Вантажник",
+    "description": "Переносить мертвих, спорядження та ресурси за потреби. Дозаправляє призначену для цього техніку."
+  }
 }

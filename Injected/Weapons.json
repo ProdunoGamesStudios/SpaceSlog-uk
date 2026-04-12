@@ -1,18 +1,18 @@
 {
-	"Gladius": {
-		"title": "Gladius",
-		"description": "A short sword used for close combat."
-	},
-	"HandGun": {
-		"title": "Handgun",
-		"description": "A small handgun used for ranged combat."
-	},
-	"SubMachineGun": {
-		"title": "Sub machine gun",
-		"description": "A rapid fire sub machine gun."
-	},
-	"RoundShield": {
-		"title": "Round shield",
-		"description": "A round shield used to block attacks."
-	}
+  "Gladius": {
+    "title": "Гладіус",
+    "description": "Короткий меч для рукопашного бою"
+  },
+  "HandGun": {
+    "title": "Пістолет",
+    "description": "Невеликий пістолет для дальнього бою."
+  },
+  "SubMachineGun": {
+    "title": "Пістолет-Кулемет",
+    "description": "Скорострільний пістоле-кулемет."
+  },
+  "RoundShield": {
+    "title": "Круглий щит",
+    "description": "Круглий щит для блокування атак."
+  }
 }

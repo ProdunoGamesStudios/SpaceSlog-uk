@@ -1,86 +1,86 @@
 {
-    "Thruster": {
-        "title": "Thruster"
-    },
-    "ButtonHover": {
-        "title": "Button hover"
-    },
-    "ButtonHoverRandomPitch": {
-        "title": "Button hover"
-    },
-    "ButtonClick": {
-        "title": "Button click"
-    },
-    "ButtonTab": {
-        "title": "Button click"
-    },
-    "BuildHover": {
-        "title": "Button click"
-    },
-    "BuildClick": {
-        "title": "Button click"
-    },
-    "ButtonError": {
-        "title": "Button click"
-    },
-    "AlertSound": {
-        "title": "Button click"
-    },
-    "AlertText": {
-        "title": "Button click"
-    },
-    "PlaceObject": {
-        "title": "Button click"
-    },
-    "PlaceObjectRandomPitch": {
-        "title": "Button click"
-    },
-    "PlaceObjectError": {
-        "title": "Button click"
-    },
-    "PlaceMultiBuild": {
-        "title": "Button click"
-    },
-    "ObjectSelect": {
-        "title": "Button click"
-    },
-    "MultiBuildStart": {
-        "title": "Button click"
-    },
-    "Draft": {
-        "title": "Button click"
-    },
-    "DropObject": {
-        "title": "Button click"
-    },
-     "DoorMedium": {
-        "title": "Door medium"
-    },
-    "BuildWeld": {
-        "title": "Welding"
-    },
-    "Explosion": {
-        "title": "Explosion"
-    },
-    "ArcadeMachinePlayingOne": {
-        "title": "Arcade machine playing"
-    },
-    "ArcadeMachinePlayingTwo": {
-        "title": "Arcade machine playing"
-    },
-    "ArcadeMachineLose": {
-        "title": "Arcade machine lose"
-    },
-    "AlertAlarm": {
-        "title": "Alert Alarm"
-    },
-    "MiningHit": {
-        "title": "Mining hit"
-    },
-    "DestroyRock": {
-        "title": "Mining hit"
-    },
-    "SpaceWormDead": {
-        "title": "Spaceworm dead"
-    }
+  "Thruster": {
+    "title": "Двигун"
+  },
+  "ButtonHover": {
+    "title": "Наведення на кнопку"
+  },
+  "ButtonHoverRandomPitch": {
+    "title": "Наведення на кнопку"
+  },
+  "ButtonClick": {
+    "title": "Натискання кнопки"
+  },
+  "ButtonTab": {
+    "title": "Натискання кнопки"
+  },
+  "BuildHover": {
+    "title": "Натискання кнопки"
+  },
+  "BuildClick": {
+    "title": "Натискання кнопки"
+  },
+  "ButtonError": {
+    "title": "Натискання кнопки"
+  },
+  "AlertSound": {
+    "title": "Натискання кнопки"
+  },
+  "AlertText": {
+    "title": "Натискання кнопки"
+  },
+  "PlaceObject": {
+    "title": "Натискання кнопки"
+  },
+  "PlaceObjectRandomPitch": {
+    "title": "Натискання кнопки"
+  },
+  "PlaceObjectError": {
+    "title": "Натискання кнопки"
+  },
+  "PlaceMultiBuild": {
+    "title": "Натискання кнопки"
+  },
+  "ObjectSelect": {
+    "title": "Натискання кнопки"
+  },
+  "MultiBuildStart": {
+    "title": "Натискання кнопки"
+  },
+  "Draft": {
+    "title": "Натискання кнопки"
+  },
+  "DropObject": {
+    "title": "Натискання кнопки"
+  },
+  "DoorMedium": {
+    "title": "Двері"
+  },
+  "BuildWeld": {
+    "title": "Зварювання"
+  },
+  "Explosion": {
+    "title": "Вибух"
+  },
+  "ArcadeMachinePlayingOne": {
+    "title": "Гра на ігровому автоматі"
+  },
+  "ArcadeMachinePlayingTwo": {
+    "title": "Гра на ігровому автоматі"
+  },
+  "ArcadeMachineLose": {
+    "title": "Програш на ігровому автоматі"
+  },
+  "AlertAlarm": {
+    "title": "Тривога"
+  },
+  "MiningHit": {
+    "title": "Удар кирки"
+  },
+  "DestroyRock": {
+    "title": "Удар кирки"
+  },
+  "SpaceWormDead": {
+    "title": "Космічний черв'як помирає"
+  }
 }

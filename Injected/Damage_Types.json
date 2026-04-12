@@ -1,59 +1,59 @@
 {
-	"General": {
-		"title": "General"
-	},
-	"Explosion": {
-		"title": "Explosion"
-	},
-	"Mining": {
-		"title": "Mined"
-	},
-	"Dehydration": {
-		"title": "Dehydration"
-	},
-	"Starvation": {
-		"title": "Starvation"
-	},
-	"Exhaustion": {
-		"title": "Exhaustion"
-	},
-	"Suffocation": {
-		"title": "Suffocation"
-	},
-	"OrganFailure": {
-		"title": "Organ failure"
-	},
-	"Punch": {
-		"title": "Punch"
-	},
-	"Kick": {
-		"title": "Kick"
-	},
-	"Bite": {
-		"title": "Bite"
-	},
-	"Scratch": {
-		"title": "Scratch"
-	},
-	"Poke": {
-		"title": "Poke"
-	},
-	"Headbutt": {
-		"title": "Headbutt"
-	},
-	"Gouge": {
-		"title": "Gouge"
-	},
-	"Stomp": {
-		"title": "Stomp"
-	},
-	"Whip": {
-		"title": "Whip"
-	},
-	"Rot": {
-		"title": "Rot"
-	},
-	"Deteriorate": {
-		"title": "Deteriorate"
-	}
+  "General": {
+    "title": "Загальна"
+  },
+  "Explosion": {
+    "title": "Вибухова"
+  },
+  "Mining": {
+    "title": "Копання"
+  },
+  "Dehydration": {
+    "title": "Зневоднення"
+  },
+  "Starvation": {
+    "title": "Голод"
+  },
+  "Exhaustion": {
+    "title": "Виснаження"
+  },
+  "Suffocation": {
+    "title": "Задуха"
+  },
+  "OrganFailure": {
+    "title": "Поліорганна недостатність"
+  },
+  "Punch": {
+    "title": "Удар рукою"
+  },
+  "Kick": {
+    "title": "Удар ногою"
+  },
+  "Bite": {
+    "title": "Укус"
+  },
+  "Scratch": {
+    "title": "Подряпина"
+  },
+  "Poke": {
+    "title": "Укол"
+  },
+  "Headbutt": {
+    "title": "Удар головою"
+  },
+  "Gouge": {
+    "title": "Виїмка"
+  },
+  "Stomp": {
+    "title": "Тупіт"
+  },
+  "Whip": {
+    "title": "Батіг"
+  },
+  "Rot": {
+    "title": "Гниття"
+  },
+  "Deteriorate": {
+    "title": "Псування"
+  }
 }

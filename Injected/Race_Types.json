@@ -1,18 +1,18 @@
 {
-	"Earther": {
-		"title": "Earther",
-        "description": "A human that has spent generations on Earth."
-	},
-	"Spacer": {
-		"title": "Spacer",
-        "description": "A human that has spent generations in space."
-	},
-    "SpaceWorm": {
-		"title": "Space worm",
-		"description": "A large gross squishy looking worm, surprisingly tough and resilient."
-	},
-    "Rodent": {
-		"title": "Rat",
-		"description": "A small rodent."
-	}
+  "Earther": {
+    "title": "Землянин",
+    "description": "Людина, що поколіннями жила на землі."
+  },
+  "Spacer": {
+    "title": "Житель космосу",
+    "description": "Людина, що поколіннями живе у космосі."
+  },
+  "SpaceWorm": {
+    "title": "Космічний черв'як",
+    "description": "Великий гидкий м'який на вид черв'як, на подив витривалий та стійкий."
+  },
+  "Rodent": {
+    "title": "Пацюк",
+    "description": "Маленький гризун."
+  }
 }

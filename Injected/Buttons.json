@@ -1,34 +1,34 @@
 {
-    "CancelBlueprint": {
-        "title": "Cancel",
-        "description": "Cancels any designated work."
-    },
-    "Deconstruct": {
-        "title": "Deconstruct",
-        "description": "Removes an already built entity."
-    },
-    "DeconstructFlooringOverlay": {
-        "title": "Deconstruct flooring overlay",
-        "description": "Removes any flooring overlays such as carpets."
-    },
-    "DeconstructCables": {
-        "title": "Deconstruct cables",
-        "description": "Removes any already built cables."
-    },
-    "DeconstructDucting": {
-        "title": "Deconstruct ducting",
-        "description": "Removes an already built ducting."
-    },
-    "CancelFlooringOverlay": {
-        "title": "Cancel flooring overlay",
-        "description": "Removes any designated flooring overlay work such as carpets."
-    },
-    "CancelCables": {
-        "title": "Cancel cables",
-        "description": "Removes any designated cables."
-    },
-    "CancelDucting": {
-        "title": "Cancel ducting",
-        "description": "Removes any designated ducting."
-    }
+  "CancelBlueprint": {
+    "title": "Скасувати",
+    "description": "Відмінити будь-яке заплановане будівництво."
+  },
+  "Deconstruct": {
+    "title": "Розібрати",
+    "description": "Розібрати вже збудований об'єкт."
+  },
+  "DeconstructFlooringOverlay": {
+    "title": "Розібрати покриття підлоги",
+    "description": "Зняти будь-яке покриття підлоги, таке як килими."
+  },
+  "DeconstructCables": {
+    "title": "Розібрати кабелі",
+    "description": "Розібрати вже збудовані кабелі."
+  },
+  "DeconstructDucting": {
+    "title": "Розібрати повітроводи",
+    "description": "Розібрати вже збудовані повітропроводи."
+  },
+  "CancelFlooringOverlay": {
+    "title": "Скасувати покриття підлоги",
+    "description": "Відмінити будь-які заплановані покриття підлоги, такі як килими."
+  },
+  "CancelCables": {
+    "title": "Скасувати кабелі",
+    "description": "Відмінити будь-які заплановані кабелі."
+  },
+  "CancelDucting": {
+    "title": "Скасувати повітроводи",
+    "description": "Відмінити будь-які заплановані повітроводи."
+  }
 }

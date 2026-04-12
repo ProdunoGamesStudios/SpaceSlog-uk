@@ -1,17 +1,17 @@
 {
-    "PassingShip": {
-        "title": "Passing ship"
-    },
-    "AsteroidField": {
-        "title": "Asteroid field"
-    },
-    "BattleDebris": {
-        "title": "Battle debris"
-    },
-    "CryoChamber": {
-        "title": "Cryo chamber spotted"
-    },
-    "HostileCreatureAssault": {
-        "title": "Hostile creatures have entered the area"
-    }
+  "PassingShip": {
+    "title": "Корабель, що летить повз"
+  },
+  "AsteroidField": {
+    "title": "Поле астероїдів"
+  },
+  "BattleDebris": {
+    "title": "Уламки битви"
+  },
+  "CryoChamber": {
+    "title": "Знайдено кріо камеру"
+  },
+  "HostileCreatureAssault": {
+    "title": "Ворожі створіння увійшли у зону."
+  }
 }

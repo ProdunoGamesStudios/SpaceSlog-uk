@@ -1,6 +1,6 @@
 {
-    "Stockpile": {
-        "title": "Stockpile",
-        "description": "Place this down to store cargo."
-    }
+  "Stockpile": {
+    "title": "Склад",
+    "description": "Розташуйте аби створити зону для складання."
+  }
 }

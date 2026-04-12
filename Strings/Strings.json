@@ -239,8 +239,8 @@
     "highly_toxic": "Високотоксичний"
   },
   "loading_text": {
-    "powering_up": "Вмикається.....",
-    "powering_down": "Вимикається.....",
+    "powering_up": "Вмикаємо системи.....",
+    "powering_down": "Вимикаємо системи.....",
     "booting_systems": "Запускаємо системи.....",
     "restarting_systems": "Перезапускаємо системи.....",
     "building_core_data": "Готуємо основні дані.",

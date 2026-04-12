@@ -1,34 +1,34 @@
 {
-    "Birthday": {
-        "title": "Birthday!",
-        "description": "Its time for celebration as {subject_name} reaches {pawn_possessive} {age} birthday!"
-    },
-    "Death": {
-        "title": "Death!",
-        "description": "{subject_name} has died {reason}"
-    },
-    "Collapsed": {
-        "title": "{subject_name} needs rescuing.",
-        "description": "{subject_name} has collapsed {reason} and needs to be rescued."
-    },
-    "Incapacitated": {
-        "title": "{subject_name} needs rescuing.",
-        "description": "{subject_name} has been incapacitated and can no longer move."
-    },
-    "Mobile": {
-        "title": "{subject_name} mobile.",
-        "description": "{subject_name} is moving again."
-    },
-    "Fire": {
-        "title": "Fire",
-        "description": "A fire has started!"
-    },
-    "ShipAttacked": {
-        "title": "Ship attacked.",
-        "description": "Your ship is being attacked!"
-    },
-    "PawnAttacked": {
-        "title": "Pawn attacked.",
-        "description": "{subject_name} is being attacked!"
-    }
+  "Birthday": {
+    "title": "День народження!",
+    "description": "Настав час для святкуваннь, адже {subject_name} досягає {pawn_possessive} {age}-річчя!"
+  },
+  "Death": {
+    "title": "Смерть!",
+    "description": "{subject_name} помер\\ла через {reason}"
+  },
+  "Collapsed": {
+    "title": "{subject_name} потребує порятунку.",
+    "description": "{subject_name} без свідомості через {reason} та потребує порятунку."
+  },
+  "Incapacitated": {
+    "title": "{subject_name} потребує порятунку.",
+    "description": "{subject_name} недієздатний\\а та більше не може рухатись."
+  },
+  "Mobile": {
+    "title": "{subject_name} може рухатись.",
+    "description": "{subject_name} знову може рухатись."
+  },
+  "Fire": {
+    "title": "Вогонь",
+    "description": "Розпочалась пожежа!"
+  },
+  "ShipAttacked": {
+    "title": "Корабель атаковано.",
+    "description": "Ваш корабель атакують!"
+  },
+  "PawnAttacked": {
+    "title": "Пішака атаковано.",
+    "description": "{subject_name} атаковано!"
+  }
 }

@@ -1,17 +1,17 @@
 {
-	"HumanPlayer": {
-		"title": "Human player"
-	},
-	"HumanPirate": {
-		"title": "Human pirate"
-	},
-	"HumanNeutral": {
-		"title": "Human neutral"
-	},
-	"SpaceWorm": {
-		"title": "Space worm"
-	},
-	"Rat": {
-		"title": "Rat"
-	}
+  "HumanPlayer": {
+    "title": "Людина гравець"
+  },
+  "HumanPirate": {
+    "title": "Людина пірат"
+  },
+  "HumanNeutral": {
+    "title": "Людина нейтральна"
+  },
+  "SpaceWorm": {
+    "title": "Космічний черв'як"
+  },
+  "Rat": {
+    "title": "Пацюк"
+  }
 }

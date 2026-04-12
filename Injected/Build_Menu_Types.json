@@ -1,0 +1,26 @@
+{
+  "atmosphere": {
+    "title": "Атмосфера"
+  },
+  "cargo": {
+    "title": "Вантаж"
+  },
+  "furniture": {
+    "title": "Меблі"
+  },
+  "power": {
+    "title": "Електрика"
+  },
+  "production": {
+    "title": "Виробництво"
+  },
+  "structure": {
+    "title": "Споруда"
+  },
+  "entertainment": {
+    "title": "Дозвілля"
+  },
+  "misc": {
+    "title": "Різне"
+  }
+}

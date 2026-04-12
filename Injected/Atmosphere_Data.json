@@ -1,30 +1,30 @@
 {
-    "Ducting": {
-        "title": "Atmospheric ducting",
-        "description": "Carries gasses."
-    },
-    "AirVent": {
-        "title": "Air vent",
-        "description": "Vents atmosphere into a room, but only if connected to an oxygen generator via ducting."
-    },
-    "LifeSupport": {
-        "title": "Life support",
-        "description": "Generates a small amount of oxygen which can be dispersed through vents, and also filters and cleans hazardous gasses and CO2 from the atmosphere."
-    },
-    "OxygenGenerator": {
-        "title": "Oxygen generator",
-        "description": "Generates oxygen which can be dispersed through vents."
-    },
-    "LargeOxygenGenerator": {
-        "title": "Large Oxygen generator",
-        "description": "Generates a large quantity of oxygen which can be dispersed through vents."
-    },
-    "GasScrubber": {
-        "title": "Gas scrubber",
-        "description": "Filters and cleans hazardous gasses and CO2 from the atmosphere."
-    },
-    "OxygenTank": {
-        "title": "Oxygen tank",
-        "description": "Stores a small amount of oxygen."
-    }
+  "Ducting": {
+    "title": "Атмосферний повітровід",
+    "description": "Транспортує гази."
+  },
+  "AirVent": {
+    "title": "Вентиляція",
+    "description": "Вентилює атмосферу в кімнаті, але тільки якщо під'єднати до генератора кисню через повітровід."
+  },
+  "LifeSupport": {
+    "title": "Система життєзабезпечення",
+    "description": "Генерує невелику кількість кисню, яку можна розігнати через вентиляцію, а також фільтрує та очищає шкідливі гази та вуглекислий газ з атмосфери."
+  },
+  "OxygenGenerator": {
+    "title": "Генератор кисню",
+    "description": "Генерує кисень, який можна розігнати через вентиляцію."
+  },
+  "LargeOxygenGenerator": {
+    "title": "Великий генератор кисню",
+    "description": "Генерує багато кисню, який можна розігнати через вентиляцію."
+  },
+  "GasScrubber": {
+    "title": "Скрубер",
+    "description": "Фільтрує та очищує шкідливі гази та вуглекислий з атмосфери."
+  },
+  "OxygenTank": {
+    "title": "Кисневий балон",
+    "description": "Містить невелику кількість кисню."
+  }
 }

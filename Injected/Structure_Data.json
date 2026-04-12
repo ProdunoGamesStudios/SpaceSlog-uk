@@ -1,46 +1,46 @@
 {
-	"MetalHull": {
-		"title": "Hull wall",
-		"description": "An impermeable hull that can hold atmosphere. Required to enable the placement of flooring."
-	},
-	"MetalHullCorner": {
-		"title": "Hull wall armour",
-		"description": "Armoured hull is used on ship exteriors. Due to its heavy nature is made porous to save weight. This means it does not hold atmosphere."
-	},
-	"MetalHullAngle": {
-		"title": "Hull wall armour",
-		"description": "Armoured hull is used on ship exteriors. Due to its heavy nature is made porous to save weight. This means it does not hold atmosphere."
-	},
-	"MetalFloor": {
-		"title": "Hull floor",
-		"description": "A standard type of flooring used in spaceships across the galaxy. Place on top of hull to create rooms."
-	},
-	"ConcreteFloor": {
-		"title": "Concrete floor",
-		"description": "A heavy flooring used in large crafts. Place on top of hull to create rooms."
-	},
-	"CarpetFloor": {
-		"title": "Carpet",
-		"description": "A very comfortable luxury carpet. Must be placed on top of other flooring."
-	},
-	"WoodFloor": {
-		"title": "Wooden flooring",
-		"description": "A standard type of flooring made from wood. Must be placed on top of other flooring."
-	},
-	"Door": {
-		"title": "Door",
-		"description": "A manual door."
-	},
-	"ArmouredDoor": {
-		"title": "Armoured door",
-		"description": "A manual reinforced door."
-	},
-	"BlastDoor": {
-		"title": "Blast door",
-		"description": "A manual, air tight door"
-	},
-	"ArmouredBlastDoor": {
-		"title": "Armoured blast door",
-		"description": "A manual, reinforced air tight door."
-	}
+  "MetalHull": {
+    "title": "Стіна обшивки",
+    "description": "Герметичний корпус, що може утримувати в собі атмосферу. Необхідний для встановлення підлоги."
+  },
+  "MetalHullCorner": {
+    "title": "Настінна броня обшивки",
+    "description": "Броньований корпус, що використовується назовні корабля. З огляду на свою велику масу він зроблений пористим для економії ваги. Через це він не може утримувати в собі атмосферу."
+  },
+  "MetalHullAngle": {
+    "title": "Настінна броня обшивки",
+    "description": "Броньований корпус, що використовується назовні корабля. З огляду на свою велику масу він зроблений пористим для економії ваги. Через це він не може утримувати в собі атмосферу."
+  },
+  "MetalFloor": {
+    "title": "Підлога обшивки",
+    "description": "Стандартний тип підлоги, що використовується у космічних кораблях по всій галактиці. Встановлюється на обшивку, щоб створити приміщення."
+  },
+  "ConcreteFloor": {
+    "title": "Бетонна підлога",
+    "description": "Важка підлога, що використовується в великих суднах. Встановлюється на обшивку, щоб створити приміщення."
+  },
+  "CarpetFloor": {
+    "title": "Килим",
+    "description": "Дуже комфортний розкішний килим. Потрібно укладати поверх іншої підлоги."
+  },
+  "WoodFloor": {
+    "title": "Дерев'яна підлога",
+    "description": "Стандартний тип підлоги, виготовлений з дерева. Потрібно укладати поверх іншої підлоги."
+  },
+  "Door": {
+    "title": "Двері",
+    "description": "Двері з ручним відкриттям."
+  },
+  "ArmouredDoor": {
+    "title": "Броньовані двері",
+    "description": "Броньовані двері з ручним відкриттям."
+  },
+  "BlastDoor": {
+    "title": "Вибухозахищені двері",
+    "description": "Герметичні двері з ручним відкриттям."
+  },
+  "ArmouredBlastDoor": {
+    "title": "Броньовані Вибухозахищені двері",
+    "description": "Броньовані герметичні двері з ручним відкриттям."
+  }
 }

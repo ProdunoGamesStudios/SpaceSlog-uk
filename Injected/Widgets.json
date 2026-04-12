@@ -1,49 +1,49 @@
 {
-    "PowerReceiverSwitch": {
-        "title": "Toggle power."
-    },
-    "PowerSourceSwitch": {
-        "title": "Toggle power."
-    },
-    "AutoRefuel": {
-        "title": "Toggle automatic refuelling."
-    },
-    "Cancel": {
-        "title": "Cancel blueprint.",
-        "description": "Cancels and removes the current blueprint."
-    },
-    "Deconstruct": {
-        "title": "Toggle deconstruct."
-    },
-    "Draft": {
-        "title": "Toggle draft."
-    },
-    "DeleteZone": {
-        "title": "Remove zone.",
-        "description": "Removes this zone."
-    },
-    "ExpandZone": {
-        "title": "Expand zone.",
-        "description": "Expand the size of this zone."
-    },
-    "ReduceZone": {
-        "title": "Reduce zone.",
-        "description": "Reduce the size of this zone."
-    },  
-    "ChangeColour": {
-        "title": "Change colour.",
-        "description": "Change the colour of this zone."
-    },
-    "ZoneVisibility": {
-        "title": "Zone visibility."
-    },
-    "Forbid": {
-        "title": "Toggle interaction."
-    },
-    "Mine": {
-        "title": "Toggle mining."
-    },
-    "Harvest": {
-        "title": "Force harvest."
-    }
+  "PowerReceiverSwitch": {
+    "title": "Перемкнути електрику."
+  },
+  "PowerSourceSwitch": {
+    "title": "Перемкнути електрику."
+  },
+  "AutoRefuel": {
+    "title": "Перемкнути автоматичну дозаправку."
+  },
+  "Cancel": {
+    "title": "Скасувати проект.",
+    "description": "Скасовує та зтирає поточний проект."
+  },
+  "Deconstruct": {
+    "title": "Перемкнути розбір."
+  },
+  "Draft": {
+    "title": "Перемкнути військову стійку."
+  },
+  "DeleteZone": {
+    "title": "Видалення зони.",
+    "description": "Видаляє обрану зону."
+  },
+  "ExpandZone": {
+    "title": "Збільшити зону.",
+    "description": "Розширити розмір цієї зони."
+  },
+  "ReduceZone": {
+    "title": "Зменшити зону.",
+    "description": "Зменшити розмір цієї зони."
+  },
+  "ChangeColour": {
+    "title": "Поміняти колір.",
+    "description": "Поміняти колір обраної зони."
+  },
+  "ZoneVisibility": {
+    "title": "Видимість зон."
+  },
+  "Forbid": {
+    "title": "Перемкнути взаємодію."
+  },
+  "Mine": {
+    "title": "Перемкнути копання."
+  },
+  "Harvest": {
+    "title": "Вимушені жнива."
+  }
 }

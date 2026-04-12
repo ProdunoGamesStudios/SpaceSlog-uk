@@ -1,104 +1,104 @@
 {
-    "Roam": {
-        "title": "Roam"
-    },
-    "Eat": {
-        "title": "Eat"
-    },
-    "Drink": {
-        "title": "Drink"
-    },
-    "Clean": {
-        "title": "Clean"
-    },
-    "Sleep": {
-        "title": "Sleep"
-    },
-    "InvoluntarySleep": {
-        "title": "Sleep"
-    },
-    "ForceMove": {
-        "title": "Force Move"
-    },
-    "Pickup": {
-        "title": "Pickup"
-    },
-    "Haul": {
-        "title": "Haul"
-    },
-    "Refuel": {
-        "title": "Refuel"
-    },
-    "MoveDeadPawn": {
-        "title": "Move dead pawn"
-    },
-    "Equip": {
-        "title": "Equip"
-    },
-    "UnEquip": {
-        "title": "Removing"
-    },
-    "CollectMaterials": {
-        "title": "Collect materials"
-    },
-    "Strip": {
-        "title": "Strip"
-    },
-    "Deconstruct": {
-        "title": "Deconstruct"
-    },
-    "Mine": {
-        "title": "Mine"
-    },
-    "DestroyAsset": {
-        "title": "Destroy asset"
-    },
-    "HaulToPrefab": {
-        "title": "Haul to prefab"
-    },
-    "Build": {
-        "title": "Build"
-    },
-    "Rescue": {
-        "title": "Rescue"
-    },
-    "UseEntertainment": {
-        "title": "Play arcade machine."
-    },
-    "SitAtChair": {
-        "title": "Sitting."
-    },
-    "TendHeal": {
-        "title": "Heal pawn"
-    },
-    "TendFeed": {
-        "title": "Heal pawn"
-    },
-    "TendHydrate": {
-        "title": "Heal pawn"
-    },
-    "GetBackToShip": {
-        "title": "Get back to the ship"
-    },
-    "Slaughter": {
-        "title": "Slaughter."
-    },
-    "Butcher": {
-        "title": "Butcher"
-    },
-    "SowPlant": {
-        "title": "Sow plant"
-    },
-    "HarvestPlant": {
-        "title": "Harvest plant"
-    },
-    "HarvestBrew": {
-        "title": "Harvest brew"
-    },
-    "FollowAndMelee": {
-        "title": "Follow and melee"
-    },
-    "Flee": {
-        "title": "Flee"
-    }
+  "Roam": {
+    "title": "Бродити"
+  },
+  "Eat": {
+    "title": "Їсти"
+  },
+  "Drink": {
+    "title": "Пити"
+  },
+  "Clean": {
+    "title": "Чистити"
+  },
+  "Sleep": {
+    "title": "Спати"
+  },
+  "InvoluntarySleep": {
+    "title": "Спати"
+  },
+  "ForceMove": {
+    "title": "Примусовий рух"
+  },
+  "Pickup": {
+    "title": "Підіймати"
+  },
+  "Haul": {
+    "title": "Переносити"
+  },
+  "Refuel": {
+    "title": "Заправляти"
+  },
+  "MoveDeadPawn": {
+    "title": "Переносити мертвого пішака"
+  },
+  "Equip": {
+    "title": "Споряджати"
+  },
+  "UnEquip": {
+    "title": "Забирати"
+  },
+  "CollectMaterials": {
+    "title": "Збирати матеріали"
+  },
+  "Strip": {
+    "title": "Роздягати"
+  },
+  "Deconstruct": {
+    "title": "Розбирати"
+  },
+  "Mine": {
+    "title": "Копати"
+  },
+  "DestroyAsset": {
+    "title": "Знищувати об'єкт"
+  },
+  "HaulToPrefab": {
+    "title": "Нести для збору"
+  },
+  "Build": {
+    "title": "Будувати"
+  },
+  "Rescue": {
+    "title": "Рятувати"
+  },
+  "UseEntertainment": {
+    "title": "Грати в ігровий автомат"
+  },
+  "SitAtChair": {
+    "title": "Сидіти"
+  },
+  "TendHeal": {
+    "title": "Лікувати пішака"
+  },
+  "TendFeed": {
+    "title": "Годувати пішака"
+  },
+  "TendHydrate": {
+    "title": "Напувати пішака"
+  },
+  "GetBackToShip": {
+    "title": "Повертатись на корабель"
+  },
+  "Slaughter": {
+    "title": "Зарізати"
+  },
+  "Butcher": {
+    "title": "Нарізати"
+  },
+  "SowPlant": {
+    "title": "Сіяти"
+  },
+  "HarvestPlant": {
+    "title": "Пожинати"
+  },
+  "HarvestBrew": {
+    "title": "Варити"
+  },
+  "FollowAndMelee": {
+    "title": "Переслідувати й бити врукопашну"
+  },
+  "Flee": {
+    "title": "Втікати"
+  }
 }

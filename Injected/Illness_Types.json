@@ -1,8 +1,8 @@
 {
-	"General": {
-		"title": "General"
-	},
-	"Hypoxia": {
-		"title": "Hypoxia"
-	}
+  "General": {
+    "title": "Загальні"
+  },
+  "Hypoxia": {
+    "title": "Гіпоксія"
+  }
 }

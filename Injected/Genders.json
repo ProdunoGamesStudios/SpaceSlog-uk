@@ -1,18 +1,18 @@
 {
-	"Male": {
-		"title": "male",
-		"description": "Has male reproductive organs."
-	},
-	"Female": {
-		"title": "female",
-		"description": "Has female reproductive organs."
-	},
-	"Neutral": {
-		"title": "neutral",
-		"description": "Has neither male or female reproductive organs."
-	},
-	"Hermaphrodite": {
-		"title": "hermaphrodite",
-		"description": "Has male and female reproductive organs."
-	}
+  "Male": {
+    "title": "чоловік",
+    "description": "Має чоловічі репродуктивні органи."
+  },
+  "Female": {
+    "title": "жінка",
+    "description": "Має жіночі репродуктивні органи."
+  },
+  "Neutral": {
+    "title": "нейтральний",
+    "description": "Не має ні чоловічих ні жіночих репродуктивних органів"
+  },
+  "Hermaphrodite": {
+    "title": "гермафродит",
+    "description": "Має чоловічі і жіночі репродуктивні органи."
+  }
 }

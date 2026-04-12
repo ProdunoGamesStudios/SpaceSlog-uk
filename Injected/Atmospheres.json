@@ -1,14 +1,14 @@
 {
-    "None": {
-        "title": "No atmosphere",
-        "description": "There is no atmosphere here. This means there is very little pressure or gasses, if any at all."
-    },
-    "Empty": {
-        "title": "Empty atmosphere",
-        "description": "You must fill this atmosphere with your own gasses."
-    },
-    "EarthLike": {
-        "title": "Earth-like",
-        "description": "This atmosphere has earth like properties."
-    }
+  "None": {
+    "title": "Атмосфера відсутня",
+    "description": "Тут немає атмосфери. Це значить, що тут дуже мало, або взагалі відсутні гази і тиск."
+  },
+  "Empty": {
+    "title": "Пуста атмосфера",
+    "description": "Вам варто заповнити цю атмосферу своїми власними газами."
+  },
+  "EarthLike": {
+    "title": "Землеподібна атмосфера",
+    "description": "Ця атмосфера подібна тій, яка є на землі."
+  }
 }

@@ -1,250 +1,250 @@
 {
-	"PotatoSeeds": {
-		"title": "Potato seeds",
-		"description": "Seeds used to grow potato's."
-	},
-	"CarrotSeeds": {
-		"title": "Carrot seeds",
-		"description": "Seeds used to grow carrots."
-	},
-	"HerbSeeds": {
-		"title": "Herb seeds",
-		"description": "Seeds used to grow herbs."
-	},
-	"RiceSeeds": {
-		"title": "Rice seeds",
-		"description": "Seeds used to grow rice."
-	},
-	"WheatSeeds": {
-		"title": "Wheat seeds",
-		"description": "Seeds used to grow wheat."
-	},
-	"SpacewormEggs": {
-		"title": "Space worm eggs",
-		"description": "Space Worm eggs are now the staple diet for humans, gross but nutritional."
-	},
-	"Eggs": {
-		"title": "Eggs",
-		"description": "Eggs."
-	},
-	"RawMeat": {
-		"title": "Raw meat",
-		"description": "Meat that is raw. Tastes better when cooked."
-	},
-	"CookedMeat": {
-		"title": "Cooked meat",
-		"description": "Meat that is cooked. Makes a good meal."
-	},
-	"Berries": {
-		"title": "Berries",
-		"description": "Wild berries, probably very poisonous."
-	},
-	"Fungus": {
-		"title": "Fungus",
-		"description": "Wild fungus. Could be poisonous."
-	},
-	"Rice": {
-		"title": "Rice",
-		"description": "Rice, grown from plants."
-	},
-	"Potato": {
-		"title": "Potato",
-		"description": "Potato, grown from plants."
-	},
-	"Wheat": {
-		"title": "Wheat",
-		"description": "Used to create various edible products."
-	},
-	"Herbs": {
-		"title": "Herbs",
-		"description": "Used to create various edible products."
-	},
-	"RootVegetables": {
-		"title": "Root vegetables",
-		"description": "Used to create various edible products."
-	},
-	"PackagedMeals": {
-		"title": "Packaged meal",
-		"description": "A pre-prepared meal."
-	},
-	"Bread": {
-		"title": "Bread",
-		"description": "Made from wheat."
-	},
-	"Bone": {
-		"title": "Bone",
-		"description": "Bones."
-	},
-	"VegetableBroth": {
-		"title": "Vegetable broth",
-		"description": "A tasty broth made with herbs and vegetables."
-	},
-	"Water": {
-		"title": "Water",
-		"description": "Normal filtered water."
-	},
-	"Ale": {
-		"title": "Ale",
-		"description": "Crudely made alcoholic beverage."
-	},
-	"Wine": {
-		"title": "Wine",
-		"description": "Crudely made alcoholic beverage."
-	},
-	"MediKit": {
-		"title": "Medical kit",
-		"description": "Contains a collection of supplies and equipment to give immediate medical treatment."
-	},
-	"Coins": {
-		"title": "Coins",
-		"description": "The standard currency known to be used throughout the universe."
-	},
-	"Diamond": {
-		"title": "Diamond",
-		"description": "An expensive commodity."
-	},
-	"FuelCell": {
-		"title": "Fuel cell",
-		"description": "Contains Plutonium. Ensures the Plutonium stays stable until it is needed to be used."
-	},
-	"Uranium": {
-		"title": "Uranium",
-		"description": "Can be refined into Plutonium which can then be stored in Fuel Cells."
-	},
-	"Titanium": {
-		"title": "Titanium",
-		"description": "Used to build most things in space."
-	},
-	"Rhodium": {
-		"title": "Rhodium",
-		"description": "Used to build things."
-	},
-	"Glass": {
-		"title": "Glass",
-		"description": "Used to build things."
-	},
-	"Silver": {
-		"title": "Silver",
-		"description": "A type of metal."
-	},
-	"Alloys": {
-		"title": "Alloys",
-		"description": "A special type of metal."
-	},
-	"Gold": {
-		"title": "Gold",
-		"description": "An expensive shiny metal."
-	},
-	"Silicon": {
-		"title": "Silicon",
-		"description": "Mainly used in electrical components."
-	},
-	"Ruby": {
-		"title": "Ruby",
-		"description": "A type of mineral."
-	},
-	"Emerald": {
-		"title": "Emerald",
-		"description": "A type of mineral."
-	},
-	"Logs": {
-		"title": "Hardwood logs",
-		"description": "Gathered from certain types of trees from some planets."
-	},
-	"Cloth": {
-		"title": "Cloth",
-		"description": "A soft and comfortable fabric created from cotton fibers."
-	},
-	"Linen": {
-		"title": "Linen",
-		"description": "A strong and durable fabric created from flax fibers."
-	},
-	"Leather": {
-		"title": "Leather",
-		"description": "A strong, flexible and durable material created from animal skins."
-	},
-	"Wool": {
-		"title": "Wool",
-		"description": "A type of material."
-	},
-	"CarbonFibre": {
-		"title": "Carbon fibre cloth",
-		"description": "A strong, flexible and durable material created from carbon."
-	},
-	"Concrete": {
-		"title": "Concrete",
-		"description": "A type of material."
-	},
-	"Sandstone": {
-		"title": "Sandstone",
-		"description": "A type of material."
-	},
-	"Rock": {
-		"title": "Rock",
-		"description": "A type of material."
-	},
-	"Carbon": {
-		"title": "Carbon",
-		"description": "A type of material. A material needed to develop carbon fibre."
-	},
-	"Granite": {
-		"title": "Granite",
-		"description": "A type of material."
-	},
-	"Ice": {
-		"title": "Ice",
-		"description": "Can be used to produce oxygen or melted down for water."
-	},
-	"RedDye": {
-		"title": "Red dye",
-		"description": "A dye used to colour different materials."
-	},
-	"CharcoalDye": {
-		"title": "Charcoal dye",
-		"description": "A dye used to colour different materials."
-	},
-	"GreenDye": {
-		"title": "Green dye",
-		"description": "A dye used to colour different materials."
-	},
-	"BlueDye": {
-		"title": "Blue dye",
-		"description": "A dye used to colour different materials."
-	},
-	"LightBlueDye": {
-		"title": "Light blue dye",
-		"description": "A dye used to colour different materials."
-	},
-	"PurpleDye": {
-		"title": "Purple dye",
-		"description": "A dye used to colour different materials."
-	},
-	"TanDye": {
-		"title": "Tan dye",
-		"description": "A dye used to colour different materials."
-	},
-	"DarkTanDye": {
-		"title": "Dark tan dye",
-		"description": "A dye used to colour different materials."
-	},
-	"OrangeDye": {
-		"title": "Orange dye",
-		"description": "A dye used to colour different materials."
-	},
-	"YellowDye": {
-		"title": "Yellow dye",
-		"description": "A dye used to colour different materials."
-	},
-	"Torpedoes": {
-		"title": "Torpedoes",
-		"description": "Used with ship weaponry. Can be devastating if fired at other spaceships."
-	},
-	"RailGunSmallSlugs": {
-		"title": "Small railgun slug rounds",
-		"description": "For use in light ship weaponry."
-	},
-	"RailGunLargeSlugs": {
-		"title": "Large railgun slug rounds",
-		"description": "For use in heavy ship weaponry."
-	}
+  "PotatoSeeds": {
+    "title": "Насіння картоплі",
+    "description": "Насіння, з якого виростає картопля."
+  },
+  "CarrotSeeds": {
+    "title": "Насіння моркви",
+    "description": "Насіння, з якого виростає морква"
+  },
+  "HerbSeeds": {
+    "title": "Насіння трав",
+    "description": "Насіння, потрібне аби вирощувати трави."
+  },
+  "RiceSeeds": {
+    "title": "Насіння рису",
+    "description": "Насіння, потрібне аби вирощувати рис"
+  },
+  "WheatSeeds": {
+    "title": "Насіння пшениці",
+    "description": "Насіння, потрібне аби вирощувати пшеницю"
+  },
+  "SpacewormEggs": {
+    "title": "Яйця космічних черв'яків",
+    "description": "Яйця космічних черв'яків нині стали основою харчування людей, вони гидкі, але поживні."
+  },
+  "Eggs": {
+    "title": "Яйця",
+    "description": "Яйця."
+  },
+  "RawMeat": {
+    "title": "Сире м'ясо",
+    "description": "Сире м'ясо. Стане смачніше якщо приготувати."
+  },
+  "CookedMeat": {
+    "title": "Приготоване м'ясо",
+    "description": "М'ясоt, що приготували. З нього вийде гарний перекус."
+  },
+  "Berries": {
+    "title": "Ягоди",
+    "description": "Дикі ягоди, можливо дуже отруйні."
+  },
+  "Fungus": {
+    "title": "Грибок",
+    "description": "Дикий грибок. Може бути отруйним."
+  },
+  "Rice": {
+    "title": "Рис",
+    "description": "Рис, вирощений з рослин."
+  },
+  "Potato": {
+    "title": "Картопля",
+    "description": "Картопля, вирощена з рослини."
+  },
+  "Wheat": {
+    "title": "Пшениця",
+    "description": "Використовується для приготування різних їстівних продуктів."
+  },
+  "Herbs": {
+    "title": "Трави",
+    "description": "Використовуються для приготування різних їстівних продуктів."
+  },
+  "RootVegetables": {
+    "title": "Коренеплоди",
+    "description": "Використовуються для приготування різних їстівних продуктів."
+  },
+  "PackagedMeals": {
+    "title": "Запакована їжа.",
+    "description": "Вже готовий обід."
+  },
+  "Bread": {
+    "title": "Хліб",
+    "description": "Печеться із пшениці."
+  },
+  "Bone": {
+    "title": "Кістка",
+    "description": "Кістки."
+  },
+  "VegetableBroth": {
+    "title": "Овочевий бульйон",
+    "description": "Смачний бульйон, зроблений з трав та овочів."
+  },
+  "Water": {
+    "title": "Вода",
+    "description": "Звичайна фільтрована вода."
+  },
+  "Ale": {
+    "title": "Ель",
+    "description": "Грубо зварений алкогольний напій."
+  },
+  "Wine": {
+    "title": "Вино",
+    "description": "Грубо зварений алкогольний напій."
+  },
+  "MediKit": {
+    "title": "Медичний набір",
+    "description": "Містить набір засобів та спорядження для надання невідкладної медичної допомоги"
+  },
+  "Coins": {
+    "title": "Монети",
+    "description": "Стандартна валюта, яке часто використовують по всій галактиці."
+  },
+  "Diamond": {
+    "title": "Діамант",
+    "description": "Дорогий товар."
+  },
+  "FuelCell": {
+    "title": "Паливний елемент",
+    "description": "Містить Плутоній. Забезпечує стабільність Плутонію до моменту його використання."
+  },
+  "Uranium": {
+    "title": "Уран",
+    "description": "Можна переробити у Плутоній, який може зберігатись у паливних елементах."
+  },
+  "Titanium": {
+    "title": "Титан",
+    "description": "Використовується для побудови більшості речей в космосі."
+  },
+  "Rhodium": {
+    "title": "Родій",
+    "description": "Використовується для будівництва."
+  },
+  "Glass": {
+    "title": "Скло",
+    "description": "Використовується для будівництва."
+  },
+  "Silver": {
+    "title": "Срібло",
+    "description": "Срібло - це метал."
+  },
+  "Alloys": {
+    "title": "Сплави",
+    "description": "Особливий вид металу."
+  },
+  "Gold": {
+    "title": "Золото",
+    "description": "Коштовний та блискучий метал."
+  },
+  "Silicon": {
+    "title": "Кремній",
+    "description": "В основному використовується у електричних компонентах."
+  },
+  "Ruby": {
+    "title": "Рубін",
+    "description": "Вид мінералу."
+  },
+  "Emerald": {
+    "title": "Смарагд",
+    "description": "Вид мінералу."
+  },
+  "Logs": {
+    "title": "Колоди твердих дерев",
+    "description": "Добуваються з певних типів дерев на деяких планетах."
+  },
+  "Cloth": {
+    "title": "Тканина",
+    "description": "М'яка та приємна на дотик тканина із волокон бавовни."
+  },
+  "Linen": {
+    "title": "Лляна тканина",
+    "description": "Міцна та надійна тканина із волокон льону."
+  },
+  "Leather": {
+    "title": "Шкіра",
+    "description": "Міцний гнучкий та надійний матеріал виготовлений із шкур тварин."
+  },
+  "Wool": {
+    "title": "Шерсть",
+    "description": "Тип матеріалу."
+  },
+  "CarbonFibre": {
+    "title": "Вуглепластик",
+    "description": "Міцний гнучкий та надійний матеріал, зроблений із вуглецю."
+  },
+  "Concrete": {
+    "title": "Бетон",
+    "description": "Тип матеріалу."
+  },
+  "Sandstone": {
+    "title": "Пісковик",
+    "description": "Тип матеріалу."
+  },
+  "Rock": {
+    "title": "Камінь",
+    "description": "Тип матеріалу."
+  },
+  "Carbon": {
+    "title": "Вуглець",
+    "description": "Тип матеріалу. Потрібен для створення вуглепластику."
+  },
+  "Granite": {
+    "title": "Граніт",
+    "description": "Тип матеріалу."
+  },
+  "Ice": {
+    "title": "Льод",
+    "description": "Може використовуватись для вироблення кисню, або розплавлятись у воду."
+  },
+  "RedDye": {
+    "title": "Червона фарба",
+    "description": "Фарба, що використовується для фарбування різних матеріалів."
+  },
+  "CharcoalDye": {
+    "title": "Вугільна фарба",
+    "description": "Фарба, що використовується для фарбування різних матеріалів."
+  },
+  "GreenDye": {
+    "title": "Зелена фарба",
+    "description": "Фарба, що використовується для фарбування різних матеріалів."
+  },
+  "BlueDye": {
+    "title": "Синя фарба",
+    "description": "Фарба, що використовується для фарбування різних матеріалів."
+  },
+  "LightBlueDye": {
+    "title": "Голуба фарба",
+    "description": "Фарба, що використовується для фарбування різних матеріалів."
+  },
+  "PurpleDye": {
+    "title": "Фіолетова фарба",
+    "description": "Фарба, що використовується для фарбування різних матеріалів."
+  },
+  "TanDye": {
+    "title": "Коричнева фарба",
+    "description": "Фарба, що використовується для фарбування різних матеріалів."
+  },
+  "DarkTanDye": {
+    "title": "Темно-коричнева фарба",
+    "description": "Фарба, що використовується для фарбування різних матеріалів."
+  },
+  "OrangeDye": {
+    "title": "Оранжева фарба",
+    "description": "Фарба, що використовується для фарбування різних матеріалів."
+  },
+  "YellowDye": {
+    "title": "Жовта фарба",
+    "description": "Фарба, що використовується для фарбування різних матеріалів."
+  },
+  "Torpedoes": {
+    "title": "Торпеди",
+    "description": "Використовується у корабельному озброєнні. Можуть бути джерелом руйнуваннь, якщо випускати їх по іншим кораблям."
+  },
+  "RailGunSmallSlugs": {
+    "title": "Малі набої для рельсотрону",
+    "description": "Для використання у легкому корабельному озброєнні."
+  },
+  "RailGunLargeSlugs": {
+    "title": "Великі набої для рельсотрону",
+    "description": "Для використання у важкому корабельному озброєнні."
+  }
 }

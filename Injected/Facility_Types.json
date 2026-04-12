@@ -1,0 +1,14 @@
+{
+  "PlayerShip": {
+    "title": "Корабель гравця"
+  },
+  "TradeShip": {
+    "title": "Торговий корабель"
+  },
+  "PirateShip": {
+    "title": "Піратський корабель"
+  },
+  "SlaveShip": {
+    "title": "Корабель рабів"
+  }
+}
