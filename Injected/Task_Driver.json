@@ -53,7 +53,7 @@
   "DestroyAsset": {
     "title": "Знищувати об'єкт"
   },
-  "HaulToPrefab": {
+  "HaulToBlueprint": {
     "title": "Нести для збору"
   },
   "Build": {

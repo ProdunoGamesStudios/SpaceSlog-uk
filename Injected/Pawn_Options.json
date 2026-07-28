@@ -61,7 +61,7 @@
     "title": "Haul obstruction",
     "description": "Hauling obstruction"
   },
-  "HaulToPrefab": {
+  "HaulToBlueprint": {
     "title": "Haul to prefab",
     "description": "Hauling to prefab"
   },
