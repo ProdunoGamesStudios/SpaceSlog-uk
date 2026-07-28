@@ -36,7 +36,6 @@
   "trying_to_add_already_existing_facility": "We are trying to add a facility ({name}) when that facility already exists.",
   "trying_to_remove_non_existing_facility": "We are trying to remove a facility ({name}) that does not exist.",
   "cannot_get_facility_for_room": "Unable to get facility for room ({name}).",
-  "cannot_install_prefab": "NULL REFERENCE ERROR: Cannot install prefab.",
   "trying_to_load_a_key_not_needed": "We are trying to load a key ({key}) not needed.",
   "trying_to_add_existing_utility": "We are trying to add a utility to UtilityList that has already been added.",
   "tring_to_remove_incorrect_utility": "We are trying to remove a utility that does not belong to this worlds UtilityList.",

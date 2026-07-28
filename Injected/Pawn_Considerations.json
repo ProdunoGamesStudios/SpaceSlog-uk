@@ -23,7 +23,7 @@
     "title": "Fallback",
     "description": "This is just a fallback for when we have nothing else to do."
   },
-  "HasPrefab": {
+  "HasBlueprint": {
     "title": "Something needs building",
     "description": "Чи треба щось побудувати?"
   },
@@ -35,7 +35,7 @@
     "title": "Something needs hauling",
     "description": "Чи є щось що потребує переноски."
   },
-  "NeedsMatsPrefab": {
+  "NeedsMatsBlueprint": {
     "title": "Has materials",
     "description": "Checking if we have the required materials."
   },
@@ -115,7 +115,7 @@
     "title": "A pawn needs hydrating",
     "description": "Checking if a pawn needs hydrating."
   },
-  "PrefabObstruction": {
+  "BlueprintObstruction": {
     "title": "An obstruction needs moving",
     "description": "Checking if an obstruction needs moving."
   },
