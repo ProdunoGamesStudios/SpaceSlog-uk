@@ -289,7 +289,7 @@
   "backstory": {
     "health_state": "{health_status}",
     "joined_crew": "{pawn_name} приєднався до вашого екіпажу {day} дня {month} місяця {year} року.",
-    "age_gender_and_species_status": "{species} {gender} був\\ла народжена {day} дня {month} місяця {year} року, тож йому\\їй {pawn_reflexive_short} {age} років."
+    "age_gender_and_species_status": "{species} {gender} був\\ла народжена {day} дня {month} місяця {year} року, тож йому\\їй {pawn_objective} {age} років."
   },
   "debug": {
     "fill": "Заповнити",
